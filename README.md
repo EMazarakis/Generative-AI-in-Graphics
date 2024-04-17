@@ -2,10 +2,7 @@
 A summary of the master thesis with title Generative AI in-Graphics.
 
 The structure of the thesis is mentioned in the following image:
-> [!WARNING] ** TODO **
-
 ![Thesis organization](/images/000.Thesis_Organization.png)
-
 
 
 The aim of this thesis is to focus on Generative AI algorithms, in order to list and classify the available Generative AI algorithms and applications that can be exploited in the scientific fields of Graphics.
@@ -22,8 +19,35 @@ In addition, in the second chapter we examine four models. We run the models, ba
 Finally, in the third and last chapter of this thesis there are the conclusions obtained from the execution of the Generative AI models for the graphics. It also mentions some important challenges around models in the field of graphics.
 
 # Evaluated Models
+We perform a human evaluation comparing the most common open-source (Stable Diffusion, Crayon(DALLE mini) ), and commercial (DALL-E 2) models. 
+These models have 3 common hyperparameters: prompt, height, width. 
+For the evaluation of these three models, we provide a benchmark of seven task-types with twelve prompts of each task type.
 
 # Benchmarking
+We provide a multi-task benchmark for evaluating the text-to-image models. Our benchmark contains a suite of tasks over multiple applications that capture a model’s ability to handle different features of a text prompt.
+Our benchmark contains:
+1. colouring task: The prompt is used to examine the ability of the image generation system to generate images that have colouring concepts.
+2. counting task: The prompt is used to examine the ability of the image generation system to generate images that have counting concepts.
+3. conflicting task: The prompt is used to examine the ability of the image generation system to generate images that have conflicting concepts.
+4. text task: The prompt is used to examine the ability of the image generation system to generate images that have texting concepts.
+5. positional task: The prompt is used to examine the ability of image generation systems to generate images with accurate positional information.
+6. shapes task: The prompt is used to examine the ability of image generation systems to generate images with accurate shaping information.
+7. faces task: The prompt is used to examine the ability of image generation systems to generate images with accurate facing information.
+
+Each task type contains 12 prompts and each task type consists of three difficulty levels (easy,medium, and hard). Our evaluation protocol consists of human ratings. 
+For each prompt, the rater is shown 3 sets of images with one from DALL-E 2, second from Stable Diffusion, and third from Craiyon. 
+The human rater will be asked two questions:
+1. Which set of images better represents the text caption: [Text Caption]? Question subjectively evaluates image-text alignment.
+2. Which set of images is of higher quality? Question subjectively evaluates image fidelity.
+
+For each question, the rater is asked to select from three choices:
+1. I prefer set A
+2. I prefer set B
+3. I prefer set C
+   
+The scores from different raters will be aggregated and then score it in a percentage value which
+will be presented in the form of a graph.
+
 
 # Generative Images
 
