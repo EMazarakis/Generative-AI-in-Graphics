@@ -1,5 +1,5 @@
 # Generative-AI-in-Graphics
-A summary of the master thesis with title Generative AI in-Graphics.
+A summary of the master thesis with title: ** Generative AI in-Graphics. **
 
 The structure of the thesis is mentioned in the following image:
 ![Thesis organization](/images/000.Thesis_Organization.png)
@@ -48,7 +48,12 @@ For each question, the rater is asked to select from three choices:
 The scores from different raters will be aggregated and then score it in a percentage value which
 will be presented in the form of a graph.
 
-:point_right: To see and donload the prompts of the benchmarking you can go to: [Benchmarking](Benchmarking/001.My_Benchmark.xlsx).
+:point_right: To see and download the prompts of the benchmarking you can go to: [Benchmarking](Benchmarking/001.My_Benchmark.xlsx).
 
 # Generative Images
+
+
+
+:point_right: To see and download the master thesis you can go to: [Benchmarking](Benchmarking/001.My_Benchmark.xlsx).
+
 
