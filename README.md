@@ -2,7 +2,7 @@
 A summary of the master thesis with title Generative AI in-Graphics.
 
 The structure of the thesis is mentioned in the following image:
-[!WARNING] ** TODO **
+> [!WARNING] ** TODO **
 
 
 The aim of this thesis is to focus on Generative AI algorithms, in order to list and classify the available Generative AI algorithms and applications that can be exploited in the scientific fields of Graphics.
@@ -14,6 +14,6 @@ Then we offer a classification of some of the advanced GAI algorithms.
 The categorization of the models have been done based on the generated content, output.
 
 In addition, in the second chapter we examine four models. We run the models, based on some parameters that we defined. 
-[!WARNING] ** TODO **
+> [!WARNING] ** TODO **
 
-Finally, in the third and last chapter of this thesis there are the conclusions obtained from the execution of the Generative AI models for the graphics. It also mentions some important challenges around models in the field of graphics.
+Finally, in the third and last chapter of this thesis there are the conclusions obtained from the execution of the Generative AI models for the graphics. It also mentions some important challenges around models in the field of graphics.
