@@ -18,4 +18,6 @@ In addition, in the second chapter we examine four models. We run the models, ba
 
 Finally, in the third and last chapter of this thesis there are the conclusions obtained from the execution of the Generative AI models for the graphics. It also mentions some important challenges around models in the field of graphics.
 
-#Benchmarking
+# Evaluated Models
+
+# Benchmarking
