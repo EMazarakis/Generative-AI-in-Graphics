@@ -4,7 +4,7 @@ A summary of the master thesis with title Generative AI in-Graphics.
 The structure of the thesis is mentioned in the following image:
 > [!WARNING] ** TODO **
 
-![Thesis organization]( /assets/images/000.Thesis_Organization.png)
+![Thesis organization](/images/000.Thesis_Organization.png)
 
 
 
