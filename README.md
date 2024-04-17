@@ -48,6 +48,7 @@ For each question, the rater is asked to select from three choices:
 The scores from different raters will be aggregated and then score it in a percentage value which
 will be presented in the form of a graph.
 
+:point_right: To see the prompts of the benchmarking you can go to :[Benchmarking](Benchmarking/001.My_Benchmark.xlsx) .
 
 # Generative Images
 
