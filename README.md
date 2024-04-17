@@ -4,6 +4,7 @@ A summary of the master thesis with title Generative AI in-Graphics.
 The structure of the thesis is mentioned in the following image:
 > [!WARNING] ** TODO **
 
+![Thesis organization]( /assets/images/electrocat.png)
 
 The aim of this thesis is to focus on Generative AI algorithms, in order to list and classify the available Generative AI algorithms and applications that can be exploited in the scientific fields of Graphics.
 
