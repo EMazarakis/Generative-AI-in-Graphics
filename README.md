@@ -58,11 +58,34 @@ The folder contains sub-folder per model:
 3. SD= Stable diffusion
 
 The structure of the folder is
-1. CR
-     -512
-        Task Types sub-folder
-      -1024
-         Task Types sub-folder
+1. CR 
+   - 512 
+     - 001.Colouring
+     - 002.Counting
+     - ....
+   - 1024
+     - 001.Colouring
+     - 002.Counting
+     - ....
+2. DL
+   - 512 
+     - 001.Colouring
+     - 002.Counting
+     - ....
+   - 1024
+     - 001.Colouring
+     - 002.Counting
+     - ....
+2. SD
+   - 512 
+     - 001.Colouring
+     - 002.Counting
+     - ....
+   - 1024
+     - 001.Colouring
+     - 002.Counting
+     - ....
+    
 
 # Master Thesis
 :point_right: To see and download the master thesis you can go to: [Master Thesis](Master_Thesis_en.pdf).
