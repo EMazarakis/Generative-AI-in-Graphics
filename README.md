@@ -51,7 +51,18 @@ will be presented in the form of a graph.
 :point_right: To see and download the prompts of the benchmarking you can go to: [Benchmarking](Benchmarking/001.My_Benchmark.xlsx).
 
 # Generative Images
-The folder contains per model the generative models in which we did human evaluation.
+The folder (Generative Images/) contains per model, size and task type the generative images in which we did human evaluation.
+The folder contains sub-folder per model:
+1. CR = Crayon (Dalle-mini)
+2. DL = DALLE
+3. SD= Stable diffusion
+
+The structure of the folder is
+1. CR
+     -512
+        Task Types sub-folder
+      -1024
+         Task Types sub-folder
 
 # Master Thesis
 :point_right: To see and download the master thesis you can go to: [Master Thesis](Master_Thesis_en.pdf).
