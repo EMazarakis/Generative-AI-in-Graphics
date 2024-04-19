@@ -51,9 +51,9 @@ will be presented in the form of a graph.
 :point_right: To see and download the prompts of the benchmarking you can go to: [Benchmarking](Benchmarking/001.My_Benchmark.xlsx).
 
 # Generative Images
+The folder contains per model the generative models in which we did human evaluation.
 
-
-
+# Master Thesis
 :point_right: To see and download the master thesis you can go to: [Master Thesis](Master_Thesis_en.pdf).
 
 
