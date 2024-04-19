@@ -87,6 +87,10 @@ The structure of the folder is
      - ....
     
 
+# Latex Files
+All the relevant latex files for the master thesis is under the directory [latex]
+
+
 # Master Thesis
 :point_right: To see and download the master thesis you can go to: [Master Thesis](Master_Thesis_en.pdf).
 
