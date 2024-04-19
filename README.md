@@ -51,7 +51,7 @@ will be presented in the form of a graph.
 :point_right: To see and download the prompts of the benchmarking you can go to: [Benchmarking](Benchmarking/001.My_Benchmark.xlsx).
 
 # Generative Images
-The folder [Produced Images](/Generative Images/) contains per model, size and task type the generative images in which we did human evaluation.
+The folder [Produced Images](./Generative Images) contains per model, size and task type the generative images in which we did human evaluation.
 The folder contains sub-folder per model:
 1. CR = Crayon (Dalle-mini)
 2. DL = DALLE
