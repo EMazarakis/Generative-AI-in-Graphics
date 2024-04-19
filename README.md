@@ -88,7 +88,7 @@ The structure of the folder is
     
 
 # Latex Files
-All the relevant latex files for the master thesis is under the directory [latex]
+All the relevant latex files for the master thesis is under the directory [latex](https://github.com/EMazarakis/Generative-AI-in-Graphics/tree/main/Latex%20Files)
 
 
 # Master Thesis
