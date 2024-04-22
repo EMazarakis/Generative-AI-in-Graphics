@@ -4,7 +4,7 @@ import webbrowser
 import base64
 import datetime
 
-openai.api_key = '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'
+openai.api_key = 'YOUR-API-KEY-HERE'
 
 prompt = "Office room with fifteen chairs"
 image_size = "512x512"
