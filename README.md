@@ -90,6 +90,8 @@ The structure of the folder is
 # Latex Files
 All the relevant latex files for the master thesis is under the directory [latex](https://github.com/EMazarakis/Generative-AI-in-Graphics/tree/main/Latex%20Files)
 
+# Python Code
+This file contain the python code that we used in order to create DALLE images through openai API [python-dalle-api-call] ()
 
 # Master Thesis
 :point_right: To see and download the master thesis you can go to: [Master Thesis](Master_Thesis_en.pdf).
