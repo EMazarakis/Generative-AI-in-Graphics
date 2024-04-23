@@ -1,3 +1,4 @@
+# pip install openai==0.28.0
 import os
 import openai
 import base64
