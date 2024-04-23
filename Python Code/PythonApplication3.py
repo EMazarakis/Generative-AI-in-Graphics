@@ -3,9 +3,9 @@ import openai
 import base64
 import datetime
 
-openai.api_key = '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'
+openai.api_key = 'YOUR-API-KEY-HERE'
 
-prefix = 'C:/Users/E.Mazarakis/Desktop/DALLE_IMAGES/image'  #Directory path of saved images
+prefix = 'C:/XXX/YYYY/DALLE_IMAGES/image'  #Directory path of saved images
 suffix = '.png'                                             # Type of saved image
 
 class OpenAIImageError(Exception):
