@@ -31,8 +31,7 @@ Our benchmark contains:
 3. conflicting task: The prompt is used to examine the ability of the image generation system to generate images that have conflicting concepts.
 4. text task: The prompt is used to examine the ability of the image generation system to generate images that have texting concepts.
 5. positional task: The prompt is used to examine the ability of image generation systems to generate images with accurate positional information.
-6. shapes task: The prompt is used to examine the ability of image generation systems to generate images with accurate shaping information.
-7. faces task: The prompt is used to examine the ability of image generation systems to generate images with accurate facing information.
+6. faces task: The prompt is used to examine the ability of image generation systems to generate images with accurate facing information.
 
 Each task type contains 12 prompts and each task type consists of three difficulty levels (easy,medium, and hard). Our evaluation protocol consists of human ratings. 
 For each prompt, the rater is shown 3 sets of images with one from DALL-E 2, second from Stable Diffusion, and third from Craiyon. 
