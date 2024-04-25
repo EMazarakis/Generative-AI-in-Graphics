@@ -34,16 +34,13 @@ Our benchmark contains:
 6. faces task: The prompt is used to examine the ability of image generation systems to generate images with accurate facing information.
 
 Each task type contains 12 prompts and each task type consists of three difficulty levels (easy,medium, and hard). Our evaluation protocol consists of human ratings. 
-For each prompt, the rater is shown 3 sets of images with one from DALL-E 2, second from Stable Diffusion, and third from Craiyon. 
-The human rater will be asked two questions:
-1. Which set of images better represents the text caption: [Text Caption]? Question subjectively evaluates image-text alignment.
-2. Which set of images is of higher quality? Question subjectively evaluates image fidelity.
+For each prompt, the rater is shown images which are from DALLE-2, from Stable Diffusion, and from Crayon. 
+The human rater will be asked one question:
+1. The image represents the caption: [Text Caption]?
+   - Question subjectively evaluates image-text alignment.
 
-For each question, the rater is asked to select from three choices:
-1. I prefer set A
-2. I prefer set B
-3. I prefer set C
-   
+For each question, the rater is asked to select from rating between 1(worst) and 5(best).
+
 The scores from different raters will be aggregated and then score it in a percentage value which
 will be presented in the form of a graph.
 
