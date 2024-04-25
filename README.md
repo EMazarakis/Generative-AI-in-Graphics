@@ -44,7 +44,7 @@ For each question, the rater is asked to select from rating between 1(worst) and
 The scores from different raters will be aggregated and then score it in a percentage value which
 will be presented in the form of a graph.
 
-:point_right: To see and download the prompts of the benchmarking you can go to: [Benchmarking](Benchmarking/001.My_Benchmark.xlsx).
+:point_right: To see and download the prompts of the benchmarking you can go to: [Benchmarking](Benchmarking/benchmark.csv).
 
 # Generative Images
 The folder [Produced Images](https://github.com/EMazarakis/Generative-AI-in-Graphics/tree/main/Generative%20Images) contains per model, size and task type the generative images in which we did human evaluation.
@@ -87,7 +87,7 @@ The structure of the folder is
 All the relevant latex files for the master thesis is under the directory [latex](https://github.com/EMazarakis/Generative-AI-in-Graphics/tree/main/Latex%20Files)
 
 # Python Code
-This file contain the python code that we used in order to create DALLE images through openai API [python-dalle-api-call](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Python%20Code/PythonApplication2.py) 
+This file contain the python code that we used in order to create DALLE images through openai API [python-dalle-api-call](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Python%20Code/PythonApplication5.py) 
 
 # Master Thesis
 :point_right: To see and download the master thesis you can go to: [Master Thesis](Master_Thesis_en.pdf).
