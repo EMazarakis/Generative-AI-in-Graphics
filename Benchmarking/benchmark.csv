@@ -40,7 +40,7 @@ A/A;Task Type;Level;Prompt
 39;Text;Easy (1 - 2 words);A sign that says 'Hello World'.
 40;Text;Easy (1 - 2 words);A sign that says 'World Hello'.
 41;Text;Medium (2 words, symbol, numbers);A sign that says 'Speed limit 45'.
-42;Text;Medium (2 words, symbol, numbers);A sign that says 'Don’t pass !'.
+42;Text;Medium (2 words, symbol, numbers);A sign that says 'Donâ€™t pass !'.
 43;Text;Medium (2 words, symbol, numbers);A sign that says 'No pedestrians !'.
 44;Text;Medium (2 words, symbol, numbers);A sign that says 'No overtaking !'.
 45;Text;Hard (3+ words, symbol, numbers);A sign that says 'No Goods materials'.
