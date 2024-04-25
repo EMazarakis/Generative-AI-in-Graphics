@@ -1,0 +1,73 @@
+A/A;Task Type;Level;Prompt
+1;Coloring ;Easy (1 colored item);A red colored car
+2;Coloring ;Easy (1 colored item);A black colored car
+3;Coloring ;Easy (1 colored item);A pink colored car
+4;Coloring ;Easy (1 colored item);A navy blue colored car
+5;Coloring ;Medium (2 colored item);A red car and a white sheep.
+6;Coloring ;Medium (2 colored item);A blue bird and a brown bear.
+7;Coloring ;Medium (2 colored item);A green apple and a black backpack.
+8;Coloring ;Medium (2 colored item);A green cup and a blue cell phone.
+9;Coloring ;Hard (3+ colored item);A red pencil in a green cup on a blue table
+10;Coloring ;Hard (3+ colored item);An office with five  desks and seven colorful chairs
+11;Coloring ;Hard (3+ colored item);An orange bird scaring a blue scarecrow with a red  pirate hat
+12;Coloring ;Hard (3+ colored item);Two pink football balls and three green basketball balls on a bench
+13;Counting;Easy (1-3 number of objects);One tennis ball on the court
+14;Counting;Easy (1-3 number of objects);Three people crossing  the street
+15;Counting;Easy (1-3 number of objects);Two monkeys eating banana
+16;Counting;Easy (1-3 number of objects);Bench in a park with two backpacks on it
+17;Counting;Medium (4-10 number of objects);Nine children doing a circle dance around a Christmas tree
+18;Counting;Medium (4-10 number of objects);An office desk with six laptops on it.
+19;Counting;Medium (4-10 number of objects);Person holding  four toy pyramids
+20;Counting;Medium (4-10 number of objects);Five photograph prints are hanging to dry in a dark room
+21;Counting;Hard (10+ number of objects);Person carrying a stack of twelve books
+22;Counting;Hard (10+ number of objects);Two people juggling ten balls together
+23;Counting;Hard (10+ number of objects);Birthday cake with exactly twenty candles on it
+24;Counting;Hard (10+ number of objects);Office room with fifteen chairs
+25;Conflicting;Easy ;A zebra without strips
+26;Conflicting;Easy ;A penguin in a city
+27;Conflicting;Easy ;Rainbow colored Ferrari.
+28;Conflicting;Easy ;A giraffe kissing a monkey
+29;Conflicting;Medium ;A panda inside a cup of tea
+30;Conflicting;Medium ;A giraffe inside a car
+31;Conflicting;Medium ;An ant under the sea
+32;Conflicting;Medium ;A motorcycle inside an oven
+33;Conflicting;Hard ;A polar bear on the desert
+34;Conflicting;Hard ;A man walking on the ceiling
+35;Conflicting;Hard ;A fish eating a pelican.
+36;Conflicting;Hard ;A horse riding  an astronaut in the forest
+37;Text;Easy (1 - 2 words);A sign that says 'Hello'.
+38;Text;Easy (1 - 2 words);A sign that says 'World'.
+39;Text;Easy (1 - 2 words);A sign that says 'Hello World'.
+40;Text;Easy (1 - 2 words);A sign that says 'World Hello'.
+41;Text;Medium (2 words, symbol, numbers);A sign that says 'Speed limit 45'.
+42;Text;Medium (2 words, symbol, numbers);A sign that says 'Don’t pass !'.
+43;Text;Medium (2 words, symbol, numbers);A sign that says 'No pedestrians !'.
+44;Text;Medium (2 words, symbol, numbers);A sign that says 'No overtaking !'.
+45;Text;Hard (3+ words, symbol, numbers);A sign that says 'No Goods materials'.
+46;Text;Hard (3+ words, symbol, numbers);A sign that says 'No hazardous materials'.
+47;Text;Hard (3+ words, symbol, numbers);A sign that says 'You must not turn Right!'.
+48;Text;Hard (3+ words, symbol, numbers);A sign that says 'Maximum speed limit 80 km'.
+49;Positional;Easy ;A train on top of a surfboard.
+50;Positional;Easy ;A wine glass on top of a dog.
+51;Positional;Easy ;A bicycle on top of a boat.
+52;Positional;Easy ;An umbrella under a spoon.
+53;Positional;Medium ;A car on the left of a bus.
+54;Positional;Medium ;A black apple on the right of  a green backpack.
+55;Positional;Medium ;A carrot on the left of a broccoli.
+56;Positional;Medium ;A pizza on the right of a suitcase.
+57;Positional;Hard ;A cat on the right of a tennis racket.
+58;Positional;Hard ;A stop sign on the right of a refrigerator.
+59;Positional;Hard ;A sheep to the right of a wine glass.
+60;Positional;Hard ;A zebra to the right of a fire hydrant.
+61;Faces;Easy (faces with 1-2 features);Face of a man with a goatee
+62;Faces;Easy (faces with 1-2 features);Face of an angry teacher
+63;Faces;Easy (faces with 1-2 features);Face of a kid with a tiger make-up
+64;Faces;Easy (faces with 1-2 features);Face of an old lady with blue hair and a wide smile
+65;Faces;Medium (1-2 faces with 1-3 features or actions);A bald man doing a handstand
+66;Faces;Medium (1-2 faces with 1-3 features or actions);Face of a woman with brown hair looking over her shoulder
+67;Faces;Medium (1-2 faces with 1-3 features or actions);Sad face of a blonde girl holding a popped balloon
+68;Faces;Medium (1-2 faces with 1-3 features or actions);Face of a weightlifting white hair Olympic gold medalist lifting 120kg with a referee next to it encouraging him.
+69;Faces;Hard (2+ faces with 2+ features, actions, or camera angles);The face of a soldier with camouflaged face painting obscured by leaves
+70;Faces;Hard (2+ faces with 2+ features, actions, or camera angles);A face of a man with a beard with water splashing onto his face
+71;Faces;Hard (2+ faces with 2+ features, actions, or camera angles);A dark messy hair boy rolling his tongue with blue light shinning on his face
+72;Faces;Hard (2+ faces with 2+ features, actions, or camera angles);A young kid with dark eye bags standing in front of her grandma with wrinkles looking at the sky
