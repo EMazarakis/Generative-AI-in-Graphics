@@ -90,7 +90,4 @@ All the relevant latex files for the master thesis is under the directory [latex
 This file contain the python code that we used in order to create DALLE images through openai API [python-dalle-api-call](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Python%20Code/PythonApplication5.py) 
 
 # Master Thesis
-:point_right: To see and download the master thesis you can go to: [Master Thesis](Master_Thesis_en.pdf).
-
-
-
+:point_right: To see and download the master thesis you can go to: [Master Thesis](Master Thesis/Master_Thesis_en.pdf).
