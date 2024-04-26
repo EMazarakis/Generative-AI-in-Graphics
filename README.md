@@ -23,6 +23,9 @@ We perform a human evaluation comparing the most common open-source (Stable Diff
 These models have 3 common hyperparameters: prompt, height, width. 
 For the evaluation of these three models, we provide a benchmark of six task-types with twelve prompts of each task type.
 
+## Python Code
+This file contain the python code that we used in order to create DALL-E 2 images through openai API [python-dalle-api-call](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Python%20Code/PythonApplication5.py) 
+
 # Benchmarking
 We provide a multi-task benchmark for evaluating the text-to-image models. Our benchmark contains a suite of tasks over multiple applications that capture a model’s ability to handle different features of a text prompt.
 Our benchmark contains:
@@ -85,9 +88,6 @@ The structure of the folder is
 
 # Latex Files
 All the relevant latex files for the master thesis is under the directory [latex](https://github.com/EMazarakis/Generative-AI-in-Graphics/tree/main/Latex%20Files)
-
-# Python Code
-This file contain the python code that we used in order to create DALL-E 2 images through openai API [python-dalle-api-call](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Python%20Code/PythonApplication5.py) 
 
 # Master Thesis
 :point_right: To see and download the master thesis you can go to: [Master Thesis](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Master%20Thesis/Master_Thesis_en.pdf).
