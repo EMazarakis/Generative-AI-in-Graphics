@@ -7,10 +7,10 @@ import datetime                         # used to name the filename of the image
 from PIL import Image  # used to print and edit images
 
 # initialize OpenAI client
-client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY", "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"))
+client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY", "YOUR-API-KEY-HERE"))
 
-# set a directory to save DALL·E images to
-image_dir_name = "C:/Users/E.Mazarakis/Desktop/DALLE_IMAGES/"
+# set a directory to save DALLÂ·E images to
+image_dir_name = "C:/XXX/YYY/Desktop/DALLE_IMAGES/"
 image_dir = os.path.join(os.curdir, image_dir_name)
 
 # Type of saved image
