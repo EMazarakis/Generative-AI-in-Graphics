@@ -1,0 +1,330 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%File: 		Master_Thesis
+%%Author: 	Eugene Mazarakis
+%%Date:		3/12/2023
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Preamble, contains commands that affect the entire document.
+\documentclass[ 11pt,a4paper,en, oneside, openright]{book} %book
+
+
+\usepackage{polyglossia}
+
+\setmainlanguage{english}
+\setotherlanguage{greek}
+\newcommand{\en}[1]{\begin{english}#1\end{english}}
+
+%
+% Add Greek support
+\usepackage{fontspec}
+\usepackage{xunicode}
+\usepackage{xltxtra}
+
+%
+% Set font family Arial
+\setmainfont[Ligatures={Common,TeX}, Numbers={OldStyle}]{Arial} %Times New Roman, Verdana,Courier,
+
+
+
+%=====================================================
+%=========  Required packages and configuration ====================
+%=====================================================
+
+% Define Configurations for the text inside the document
+\usepackage[a4paper,
+top=2cm,					%Distance of the Chapter for the top of the page
+bottom=2cm,
+bindingoffset=0.5cm,
+left=2cm,
+right=2cm,
+headheight=15pt,
+headsep=1.25cm,
+footskip=1.25cm,
+includehead,
+includefoot]{geometry} % add option showframe=true for debugging
+
+
+% We need to use the graphicx package, in order to tell Latex how to manage the Images.
+\usepackage{graphicx}
+
+% Scans for figures relative to this file in the dir Figures under the directory of the main document.
+%\graphicspath{ {./Figures/} 
+
+% Adding colors to the text. Making TODO red in the doc  \textcolor{red}{TODO} 
+\usepackage{xcolor}
+
+% needed for formatting chapter headings
+\usepackage{sectsty}   
+
+% needed for forcing capital letters (in chapters)
+\usepackage{textcase}  
+
+%\usepackage[resetlabels]{multibib}
+
+% needed to adjust Toc margins and fonts
+\usepackage[titles]{tocloft}  
+
+% Chapter, Section and Subsection Style  
+\usepackage{titlesec}
+
+% Definition of chapter format
+\titleformat{\chapter}{\bfseries\large\centering}{\thechapter. }{2pt}{\large}
+
+%Definition of section format
+%\titleformat{\section}{\bfseries\normalsize}{\thesection. }{2pt}{\normalsize}
+
+%Definition of subsection format
+%\titleformat{\subsection}{\bfseries\normalsize}{\thesubsection.}{2pt}{\normalsize}
+
+% needed for splitting big tables across pages
+\usepackage{longtable} 
+
+%claims to produce more beautiful tables that more closely resemble those used in traditional typesetting, for \toprule, \bottomrule
+\usepackage{booktabs}
+
+% for references 
+\usepackage{cite}
+
+%In oreder to do the citation of the references as lilnks
+\usepackage{hyperref}
+
+%Packages for tables
+\usepackage{array}		%We use it in order to have the m arg, insde the table env. Put the text in the middle of the cel
+\usepackage{multirow} 	% Create tabular cells spanning multiple rows.
+
+%This is the way to define the motive for the definitions
+\usepackage{amsthm}  %provides an enhanced version of LATEX’s \newtheorem command
+%plain, Sets the styling for the numbered environment 
+\theoremstyle{definition}	
+%First argument is  the name of the Env=definition, second the word that will be printed. Third [section]  restarts the definition counter at every new section.
+\newtheorem{definition}{Definition}[section] 
+
+
+% Required package for mathematical facilities
+\usepackage{amsmath}
+
+%Required package in oreder to use the [ noitemsep , nolistsep ] in the lists env, in oreder to remove the space between lines of the list.
+\usepackage{enumitem}
+
+%We use these packages in order to add the python code inside the document.
+\usepackage{listings} 
+\usepackage{xcolor}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=mystyle}
+
+
+%==========================================================================================================================
+%==========================================================================================================================
+
+\begin{document}		 % Beginning of the actual document.
+\pagestyle{plain}	 % Sets the style of the current page, and all subsequent pages, to ⟨plain⟩
+
+%=======================================================================
+%====================================  FrontMatter ========================== ========================================================================
+	
+	% -Cover English
+	% -Blank Page
+	% -Cover Greek
+	% -Blank Page
+	% -Exam Committee Enlglish
+	% -Blank Page
+	% -Exam Committee Greek
+	% -Blank Page
+	% -Abstract
+	% -Blank Page
+	% -Περίληψη
+	% -Blank Page
+	% -Inscriptions (Αφιερώσεις)
+	% -Blank Page
+	% -Acknowledgments
+	% -Blank Page
+	% -Table of Contents
+	% -List of Figures
+	% -Blank Page
+	% -List of Tables
+	% -Blank Page
+
+
+	% No numbers on the following Pages
+	\pagenumbering{gobble}	
+	
+% FIXME
+%\begin{titlepage} ---If I added it, I can ommit the above page numbering
+	
+		
+	\include{FrontMatter/001.CoverEn/CoverEn}
+	\include{FrontMatter/000.BlankPage/BlankPage}	
+
+	\include{FrontMatter/002.CoverGr/CoverGr}	
+	\include{FrontMatter/000.BlankPage/BlankPage}	
+
+	\include{FrontMatter/003.ExamComEn/ExamComEn}	
+	\include{FrontMatter/000.BlankPage/BlankPage}	
+	
+	
+	\include{FrontMatter/004.ExamComGr/ExamComGr}
+	\include{FrontMatter/000.BlankPage/BlankPage}	
+	
+	\include{FrontMatter/005.AbstractEn/AbstractEn}
+	\include{FrontMatter/000.BlankPage/BlankPage}	
+		
+	\include{FrontMatter/006.AbstractGr/AbstractGr}
+	\include{FrontMatter/000.BlankPage/BlankPage}	
+	
+	\include{FrontMatter/007.Inscriptions/Inscriptions}
+	\include{FrontMatter/000.BlankPage/BlankPage}	
+		
+	\include{FrontMatter/008.Acknowledgements/Acknowledgements}
+	\include{FrontMatter/000.BlankPage/BlankPage}	
+		
+		
+			
+%============================================================================
+% ===================== Table of Contents, List of Figures, List of Tables =========================
+%============================================================================
+
+	
+	% -Πίνακας Περιεχομένων	
+	\renewcommand\contentsname{CONTENTS}
+	\tableofcontents{\thispagestyle{empty}}		
+	\addtocontents{toc}{~\hfill\textbf{Page}\par}	
+
+	
+	% -Κατάλογος Εικόνων
+	\renewcommand\listfigurename{LIST OF FIGURES}
+	\listoffigures{\thispagestyle{empty}}	
+	
+	\include{FrontMatter/000.BlankPage/BlankPage}		
+	
+	% -Κατάλογος Πινάκων
+	\renewcommand\listtablename{LIST OF TABLES}	
+	\listoftables{\thispagestyle{empty}}
+	
+	\include{FrontMatter/000.BlankPage/BlankPage}	
+
+%\end{titlepage}
+	
+	% -Αρχικοποιώ Τη Σελίδα
+	\cleardoublepage
+	\pagenumbering{arabic}
+	\setcounter{page}{8}
+	
+	%Για να μην έχει εσοχή η κάθε παραγράφος 
+	\setlength{\parindent}{0pt}		
+
+
+%============================================================================
+%=====================================  MainMatter  =============================== %=============================================================================
+
+
+	% -Preface		- In English
+	% -Πρόλογος     - In Greek
+	% -Chapter 1	    - Introduction
+	% -Chapter 2 	- Running Models
+	% -Chapter 3 	- Conclusions
+
+	\chapter*{PREFACE}
+		\input{MainMatter/PrefaceEn/PrefaceEn}
+		
+	\include{FrontMatter/000.BlankPage/BlankPage}	
+		
+	\chapter*{ΠΡΟΛΟΓΟΣ}		% If you want to disappear it from the ToC, go to the tex file and commented the \addcontentsline.
+		\input{MainMatter/PrefaceGr/PrefaceGr}
+	
+	\include{FrontMatter/000.BlankPage/BlankPage}	
+	
+	%\cleardoublepage
+	%\pagestyle{fancy}
+
+	
+	\chapter{INTRODUCTION}
+	
+		The thesis is structured as follows: The first chapter provides comprehensive definitions within the domain of Generative AI and presents a taxonomy of AI models categorized by their generated content. The second chapter introduces three models, which were executed based on specified parameters such as prompt, width, and height. Additionally, this chapter presents the benchmark utilized for human evaluation of the models. Finally, the third chapter discusses the evaluation results and highlights findings derived from model executions. The structure of the master thesis is given in the following figure.
+		\begin{figure}[h!]	%h!
+				\begin{center}	
+	 				%scale the image 0.5 of its real size. Instead of scale we can use width=5cm, height=4cm.
+					\includegraphics[scale=0.5]{Figures/000.Thesis_Organization}	
+					\caption{Organization of this thesis.}
+				\end{center}
+		\end{figure}		
+		
+		
+		
+			\section{The age of generative AI​}	
+					\input{MainMatter/Introduction/theAgeOfGenerativeAI/theAgeOfGenerativeAI}
+			
+			% or Taxanomy of the generative AI models
+			\section{Classification of generative AI models}
+				\input{MainMatter/Introduction/literarureReview/ClassificationOfGenModels}
+
+
+
+	\chapter{EVALUATION}
+	We perform a human evaluation comparing the most common open-source (Stable Diffusion, Crayon(DALLE mini) ),  and commercial (DALL-E 2) models. These models have 3 common hyperparameters: prompt, height, width. For the evaluation of these three models, we provide a benchmark of seven task-types with twelve prompts of each task type.
+	
+		\section{Models​}	
+					\input{MainMatter/Evaluation/models/models}
+					
+		\section{Benchmark}	
+					\input{MainMatter/Evaluation/benchmark/benchmark}
+	
+
+	\chapter{CONCLUSION}
+	The quantitative method for evaluating text-to-image generative models, using a benchmark that encompasses various model competencies and applications, provides us with insights into the capabilities of each model. Therefore, understanding the limitations is critical for picking the suitable model for each task and application, advancing the quality of generative models, and aligning their performance with human goals.\\
+	
+			\section{Results}	
+					\input{MainMatter/Conclusion/results/results}
+		
+		\section{Findings}	
+					\input{MainMatter/Conclusion/findings/findings}
+			
+
+
+%============================================================================
+%======================== BackMatter  ============================================
+%============================================================================
+
+	%		-Glossary
+	% 	-Abbreviations/Acronyms
+	% 	-References
+		
+		
+		%\include{BackMatter/Glossary/Glossary}
+		
+		\include{FrontMatter/000.BlankPage/BlankPage}	
+		\include{BackMatter/Acronyms/Acronyms}
+
+		\include{FrontMatter/000.BlankPage/BlankPage}	
+		
+
+	  \addcontentsline{toc}{chapter}{REFERENCES}		% Add references to the ToC
+	  \bibliographystyle{plain}
+	  \renewcommand\bibname{REFERENCES}			   %Change the name, from Bibliography to References
+	  \bibliography{BackMatter/References/References}	
+	 
+	 
+
+\end{document}	% End of the actual document.

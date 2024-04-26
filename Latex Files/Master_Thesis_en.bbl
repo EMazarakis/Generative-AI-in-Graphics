@@ -1,0 +1,666 @@
+\begin{thebibliography}{10}
+
+\bibitem{bib:openai-docs}
+Openai api documentation.
+
+\bibitem{bib:agostinelli2023musiclm}
+Andrea Agostinelli, Timo~I. Denk, Zalán Borsos, Jesse Engel, Mauro Verzetti,
+  Antoine Caillon, Qingqing Huang, Aren Jansen, Adam Roberts, Marco
+  Tagliasacchi, Matt Sharifi, Neil Zeghidour, and Christian Frank.
+\newblock Musiclm: Generating music from text, 2023.
+
+\bibitem{bib:automatic111}
+AUTOMATIC1111.
+\newblock stable-diffusion-webui, 2023.
+
+\bibitem{ba2016layer_normalization}
+Jimmy~Lei Ba, Jamie~Ryan Kiros, and Geoffrey~E. Hinton.
+\newblock Layer normalization, 2016.
+
+\bibitem{bib:bahdanau2016neural_attentionMechanism}
+Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio.
+\newblock Neural machine translation by jointly learning to align and
+  translate, 2016.
+
+\bibitem{bib:balaji2023ediffi}
+Yogesh Balaji, Seungjun Nah, Xun Huang, Arash Vahdat, Jiaming Song, Qinsheng
+  Zhang, Karsten Kreis, Miika Aittala, Timo Aila, Samuli Laine, Bryan
+  Catanzaro, Tero Karras, and Ming-Yu Liu.
+\newblock ediff-i: Text-to-image diffusion models with an ensemble of expert
+  denoisers, 2023.
+
+\bibitem{bib:fi15080260}
+Ajay Bandi, Pydi Venkata Satya~Ramesh Adapa, and Yudu Eswar Vinay Pratap~Kumar
+  Kuchi.
+\newblock The power of generative ai: A review of requirements, models,
+  input-output formats, evaluation metrics, and challenges.
+\newblock {\em Future Internet}, 15(8), 2023.
+
+\bibitem{bib:fi15080260power_genai_review}
+Ajay Bandi, Pydi Venkata Satya~Ramesh Adapa, and Yudu Eswar Vinay Pratap~Kumar
+  Kuchi.
+\newblock The power of generative ai: A review of requirements, models,
+  input-output formats, evaluation metrics, and challenges.
+\newblock {\em Future Internet}, 15(8), 2023.
+
+\bibitem{bib:bommasani2022opportunitiesFModels}
+Rishi Bommasani, Drew~A. Hudson, Ehsan Adeli, Russ Altman, Simran Arora, Sydney
+  von Arx, Michael~S. Bernstein, Jeannette Bohg, Antoine Bosselut, Emma
+  Brunskill, Erik Brynjolfsson, Shyamal Buch, Dallas Card, Rodrigo Castellon,
+  Niladri Chatterji, Annie Chen, Kathleen Creel, Jared~Quincy Davis, Dora
+  Demszky, Chris Donahue, Moussa Doumbouya, Esin Durmus, Stefano Ermon, John
+  Etchemendy, Kawin Ethayarajh, Li~Fei-Fei, Chelsea Finn, Trevor Gale, Lauren
+  Gillespie, Karan Goel, Noah Goodman, Shelby Grossman, Neel Guha, Tatsunori
+  Hashimoto, Peter Henderson, John Hewitt, Daniel~E. Ho, Jenny Hong, Kyle Hsu,
+  Jing Huang, Thomas Icard, Saahil Jain, Dan Jurafsky, Pratyusha Kalluri,
+  Siddharth Karamcheti, Geoff Keeling, Fereshte Khani, Omar Khattab, Pang~Wei
+  Koh, Mark Krass, Ranjay Krishna, Rohith Kuditipudi, Ananya Kumar, Faisal
+  Ladhak, Mina Lee, Tony Lee, Jure Leskovec, Isabelle Levent, Xiang~Lisa Li,
+  Xuechen Li, Tengyu Ma, Ali Malik, Christopher~D. Manning, Suvir Mirchandani,
+  Eric Mitchell, Zanele Munyikwa, Suraj Nair, Avanika Narayan, Deepak
+  Narayanan, Ben Newman, Allen Nie, Juan~Carlos Niebles, Hamed Nilforoshan,
+  Julian Nyarko, Giray Ogut, Laurel Orr, Isabel Papadimitriou, Joon~Sung Park,
+  Chris Piech, Eva Portelance, Christopher Potts, Aditi Raghunathan, Rob Reich,
+  Hongyu Ren, Frieda Rong, Yusuf Roohani, Camilo Ruiz, Jack Ryan, Christopher
+  Ré, Dorsa Sadigh, Shiori Sagawa, Keshav Santhanam, Andy Shih, Krishnan
+  Srinivasan, Alex Tamkin, Rohan Taori, Armin~W. Thomas, Florian Tramèr,
+  Rose~E. Wang, William Wang, Bohan Wu, Jiajun Wu, Yuhuai Wu, Sang~Michael Xie,
+  Michihiro Yasunaga, Jiaxuan You, Matei Zaharia, Michael Zhang, Tianyi Zhang,
+  Xikun Zhang, Yuhui Zhang, Lucia Zheng, Kaitlyn Zhou, and Percy Liang.
+\newblock On the opportunities and risks of foundation models, 2022.
+
+\bibitem{bib:brown2020language_gpt_3}
+Tom~B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan,
+  Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda
+  Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan,
+  Rewon Child, Aditya Ramesh, Daniel~M. Ziegler, Jeffrey Wu, Clemens Winter,
+  Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray,
+  Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford,
+  Ilya Sutskever, and Dario Amodei.
+\newblock Language models are few-shot learners, 2020.
+
+\bibitem{bib:cao2023comprehensive}
+Yihan Cao, Siyu Li, Yixin Liu, Zhiling Yan, Yutong Dai, Philip~S. Yu, and
+  Lichao Sun.
+\newblock A comprehensive survey of ai-generated content (aigc): A history of
+  generative ai from gan to chatgpt, 2023.
+
+\bibitem{bib:chen2021evaluating_codex}
+Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique~Ponde
+  de~Oliveira~Pinto, Jared Kaplan, Harri Edwards, Yuri Burda, Nicholas Joseph,
+  Greg Brockman, Alex Ray, Raul Puri, Gretchen Krueger, Michael Petrov, Heidy
+  Khlaaf, Girish Sastry, Pamela Mishkin, Brooke Chan, Scott Gray, Nick Ryder,
+  Mikhail Pavlov, Alethea Power, Lukasz Kaiser, Mohammad Bavarian, Clemens
+  Winter, Philippe Tillet, Felipe~Petroski Such, Dave Cummings, Matthias
+  Plappert, Fotios Chantzis, Elizabeth Barnes, Ariel Herbert-Voss,
+  William~Hebgen Guss, Alex Nichol, Alex Paino, Nikolas Tezak, Jie Tang, Igor
+  Babuschkin, Suchir Balaji, Shantanu Jain, William Saunders, Christopher
+  Hesse, Andrew~N. Carr, Jan Leike, Josh Achiam, Vedant Misra, Evan Morikawa,
+  Alec Radford, Matthew Knight, Miles Brundage, Mira Murati, Katie Mayer, Peter
+  Welinder, Bob McGrew, Dario Amodei, Sam McCandlish, Ilya Sutskever, and
+  Wojciech Zaremba.
+\newblock Evaluating large language models trained on code, 2021.
+
+\bibitem{bib:child2019generating_sparse_tr}
+Rewon Child, Scott Gray, Alec Radford, and Ilya Sutskever.
+\newblock Generating long sequences with sparse transformers, 2019.
+
+\bibitem{bib:chowdhery2022palm}
+Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra,
+  Adam Roberts, Paul Barham, Hyung~Won Chung, Charles Sutton, Sebastian
+  Gehrmann, Parker Schuh, Kensen Shi, Sasha Tsvyashchenko, Joshua Maynez,
+  Abhishek Rao, Parker Barnes, Yi~Tay, Noam Shazeer, Vinodkumar Prabhakaran,
+  Emily Reif, Nan Du, Ben Hutchinson, Reiner Pope, James Bradbury, Jacob
+  Austin, Michael Isard, Guy Gur-Ari, Pengcheng Yin, Toju Duke, Anselm
+  Levskaya, Sanjay Ghemawat, Sunipa Dev, Henryk Michalewski, Xavier Garcia,
+  Vedant Misra, Kevin Robinson, Liam Fedus, Denny Zhou, Daphne Ippolito, David
+  Luan, Hyeontaek Lim, Barret Zoph, Alexander Spiridonov, Ryan Sepassi, David
+  Dohan, Shivani Agrawal, Mark Omernick, Andrew~M. Dai,
+  Thanumalayan~Sankaranarayana Pillai, Marie Pellat, Aitor Lewkowycz, Erica
+  Moreira, Rewon Child, Oleksandr Polozov, Katherine Lee, Zongwei Zhou, Xuezhi
+  Wang, Brennan Saeta, Mark Diaz, Orhan Firat, Michele Catasta, Jason Wei,
+  Kathy Meier-Hellstern, Douglas Eck, Jeff Dean, Slav Petrov, and Noah Fiedel.
+\newblock Palm: Scaling language modeling with pathways, 2022.
+
+\bibitem{bib:chung2021w2vbert}
+Yu-An Chung, Yu~Zhang, Wei Han, Chung-Cheng Chiu, James Qin, Ruoming Pang, and
+  Yonghui Wu.
+\newblock W2v-bert: Combining contrastive learning and masked language modeling
+  for self-supervised speech pre-training, 2021.
+
+\bibitem{bib:book_Var_methods_ML_in_DPN}
+Lucas Cinelli, Matheus Marins, Eduardo da~Silva, and Sergio Netto.
+\newblock {\em Variational Methods for Machine Learning with Applications to
+  Deep Networks}.
+\newblock 01 2021.
+
+\bibitem{bib:Dayma_DALL_E_Mini_2021}
+Boris Dayma, Suraj Patil, Pedro Cuenca, Khalid Saifullah, Tanishq Abraham, Phuc
+  Le~Khac, Luke Melas, and Ritobrata Ghosh.
+\newblock Dall·e mini, 7 2021.
+
+\bibitem{bib:crayon_weights_biases_datasets}
+Boris Dayma, Suraj Patil, Pedro Cuenca, Khalid Saifullah, Tanishq Abraham, Luke
+  Phúc~Lê, and Ritobrata Ghosh.
+\newblock Weights and biases, 2022.
+
+\bibitem{bib:dhariwal2020jukebox}
+Prafulla Dhariwal, Heewoo Jun, Christine Payne, Jong~Wook Kim, Alec Radford,
+  and Ilya Sutskever.
+\newblock Jukebox: A generative model for music, 2020.
+
+\bibitem{bib:défossez2022high_encodec}
+Alexandre Défossez, Jade Copet, Gabriel Synnaeve, and Yossi Adi.
+\newblock High fidelity neural audio compression, 2022.
+
+\bibitem{bib:esser2023structure_gen_1}
+Patrick Esser, Johnathan Chiu, Parmida Atighehchian, Jonathan Granskog, and
+  Anastasis Germanidis.
+\newblock Structure and content-guided video synthesis with diffusion models,
+  2023.
+
+\bibitem{bib:feng2020codebert}
+Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun
+  Shou, Bing Qin, Ting Liu, Daxin Jiang, and Ming Zhou.
+\newblock Codebert: A pre-trained model for programming and natural languages,
+  2020.
+
+\bibitem{bib:Feuerriegel_2023}
+Stefan Feuerriegel, Jochen Hartmann, Christian Janiesch, and Patrick Zschech.
+\newblock Generative ai.
+\newblock {\em Business, Information Systems Engineering}, September 2023.
+
+\bibitem{bib:gafni2022makeascene}
+Oran Gafni, Adam Polyak, Oron Ashual, Shelly Sheynin, Devi Parikh, and Yaniv
+  Taigman.
+\newblock Make-a-scene: Scene-based text-to-image generation with human priors,
+  2022.
+
+\bibitem{bib:goodfellow2017nips}
+Ian Goodfellow.
+\newblock Nips 2016 tutorial: Generative adversarial networks, 2017.
+
+\bibitem{bib:Goodfellow-et-al-2016}
+Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+\newblock {\em Deep Learning}.
+\newblock MIT Press, 2016.
+\newblock \url{http://www.deeplearningbook.org}.
+
+\bibitem{bib:goodfellow2014generative}
+Ian~J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David
+  Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio.
+\newblock Generative adversarial networks, 2014.
+
+\bibitem{bib:gozalobrizuela2023survey}
+Roberto Gozalo-Brizuela and Eduardo~C. Garrido-Merchán.
+\newblock A survey of generative ai applications, 2023.
+
+\bibitem{he2015deep_deep_desidual_connection}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition, 2015.
+
+\bibitem{bib:ho2022imagen}
+Jonathan Ho, William Chan, Chitwan Saharia, Jay Whang, Ruiqi Gao, Alexey
+  Gritsenko, Diederik~P. Kingma, Ben Poole, Mohammad Norouzi, David~J. Fleet,
+  and Tim Salimans.
+\newblock Imagen video: High definition video generation with diffusion models,
+  2022.
+
+\bibitem{bib:ho2020denoising_prob_mod}
+Jonathan Ho, Ajay Jain, and Pieter Abbeel.
+\newblock Denoising diffusion probabilistic models, 2020.
+
+\bibitem{bib:huang2022mulan}
+Qingqing Huang, Aren Jansen, Joonseok Lee, Ravi Ganti, Judith~Yue Li, and
+  Daniel P.~W. Ellis.
+\newblock Mulan: A joint embedding of music audio and natural language, 2022.
+
+\bibitem{bib:karras2019stylebased_gan}
+Tero Karras, Samuli Laine, and Timo Aila.
+\newblock A style-based generator architecture for generative adversarial
+  networks, 2019.
+
+\bibitem{bib:Kiarashinejad_2020}
+Yashar Kiarashinejad, Sajjad Abdollahramezani, and Ali Adibi.
+\newblock Deep learning approach based on dimensionality reduction for
+  designing electromagnetic nanostructures.
+\newblock {\em npj Computational Materials}, 6(1), February 2020.
+
+\bibitem{bib:Kingma_2019}
+Diederik~P. Kingma and Max Welling.
+\newblock An introduction to variational autoencoders.
+\newblock {\em Foundations and Trends® in Machine Learning}, 12(4):307–392,
+  2019.
+
+\bibitem{bib:kingma2022autoencoding}
+Diederik~P Kingma and Max Welling.
+\newblock Auto-encoding variational bayes, 2022.
+
+\bibitem{bib:le2023voicebox}
+Matthew Le, Apoorv Vyas, Bowen Shi, Brian Karrer, Leda Sari, Rashel Moritz,
+  Mary Williamson, Vimal Manohar, Yossi Adi, Jay Mahadeokar, and Wei-Ning Hsu.
+\newblock Voicebox: Text-guided multilingual universal speech generation at
+  scale, 2023.
+
+\bibitem{bib:lin2023magic3d}
+Chen-Hsuan Lin, Jun Gao, Luming Tang, Towaki Takikawa, Xiaohui Zeng, Xun Huang,
+  Karsten Kreis, Sanja Fidler, Ming-Yu Liu, and Tsung-Yi Lin.
+\newblock Magic3d: High-resolution text-to-3d content creation, 2023.
+
+\bibitem{bib:lipman2023flow_match}
+Yaron Lipman, Ricky T.~Q. Chen, Heli Ben-Hamu, Maximilian Nickel, and Matt Le.
+\newblock Flow matching for generative modeling, 2023.
+
+\bibitem{bib:LIU2023798}
+Yue Liu, Zhengwei Yang, Zhenyao Yu, Zitu Liu, Dahui Liu, Hailong Lin, Mingqing
+  Li, Shuchang Ma, Maxim Avdeev, and Siqi Shi.
+\newblock Generative artificial intelligence and its applications in materials
+  science: Current situation and future perspectives.
+\newblock {\em Journal of Materiomics}, 9(4):798--816, 2023.
+
+\bibitem{bib:LV2023208}
+Zhihan Lv.
+\newblock Generative artificial intelligence in the metaverse era.
+\newblock {\em Cognitive Robotics}, 3:208--217, 2023.
+
+\bibitem{bib:mildenhall2020nerf}
+Ben Mildenhall, Pratul~P. Srinivasan, Matthew Tancik, Jonathan~T. Barron, Ravi
+  Ramamoorthi, and Ren Ng.
+\newblock Nerf: Representing scenes as neural radiance fields for view
+  synthesis, 2020.
+
+\bibitem{bib:mitchell1997machine}
+Tom~M Mitchell.
+\newblock {\em Machine learning}, volume~1.
+\newblock McGraw-hill New York, 1997.
+
+\bibitem{bib:pml1Book}
+Kevin~P. Murphy.
+\newblock {\em Probabilistic Machine Learning: An introduction}.
+\newblock MIT Press, 2022.
+
+\bibitem{bib:nichol2022glide}
+Alex Nichol, Prafulla Dhariwal, Aditya Ramesh, Pranav Shyam, Pamela Mishkin,
+  Bob McGrew, Ilya Sutskever, and Mark Chen.
+\newblock Glide: Towards photorealistic image generation and editing with
+  text-guided diffusion models, 2022.
+
+\bibitem{bib:nichol2022pointe}
+Alex Nichol, Heewoo Jun, Prafulla Dhariwal, Pamela Mishkin, and Mark Chen.
+\newblock Point-e: A system for generating 3d point clouds from complex
+  prompts, 2022.
+
+\bibitem{bib:nijkamp2023codegen}
+Erik Nijkamp, Bo~Pang, Hiroaki Hayashi, Lifu Tu, Huan Wang, Yingbo Zhou, Silvio
+  Savarese, and Caiming Xiong.
+\newblock Codegen: An open large language model for code with multi-turn
+  program synthesis, 2023.
+
+\bibitem{bib:openai2023gpt4}
+OpenAI, :, Josh Achiam, Steven Adler, Sandhini Agarwal, Lama Ahmad, Ilge
+  Akkaya, Florencia~Leoni Aleman, Diogo Almeida, Janko Altenschmidt, Sam
+  Altman, Shyamal Anadkat, Red Avila, Igor Babuschkin, Suchir Balaji, Valerie
+  Balcom, Paul Baltescu, Haiming Bao, Mo~Bavarian, Jeff Belgum, Irwan Bello,
+  Jake Berdine, Gabriel Bernadett-Shapiro, Christopher Berner, Lenny Bogdonoff,
+  Oleg Boiko, Madelaine Boyd, Anna-Luisa Brakman, Greg Brockman, Tim Brooks,
+  Miles Brundage, Kevin Button, Trevor Cai, Rosie Campbell, Andrew Cann,
+  Brittany Carey, Chelsea Carlson, Rory Carmichael, Brooke Chan, Che Chang,
+  Fotis Chantzis, Derek Chen, Sully Chen, Ruby Chen, Jason Chen, Mark Chen, Ben
+  Chess, Chester Cho, Casey Chu, Hyung~Won Chung, Dave Cummings, Jeremiah
+  Currier, Yunxing Dai, Cory Decareaux, Thomas Degry, Noah Deutsch, Damien
+  Deville, Arka Dhar, David Dohan, Steve Dowling, Sheila Dunning, Adrien
+  Ecoffet, Atty Eleti, Tyna Eloundou, David Farhi, Liam Fedus, Niko Felix,
+  Simón~Posada Fishman, Juston Forte, Isabella Fulford, Leo Gao, Elie Georges,
+  Christian Gibson, Vik Goel, Tarun Gogineni, Gabriel Goh, Rapha Gontijo-Lopes,
+  Jonathan Gordon, Morgan Grafstein, Scott Gray, Ryan Greene, Joshua Gross,
+  Shixiang~Shane Gu, Yufei Guo, Chris Hallacy, Jesse Han, Jeff Harris, Yuchen
+  He, Mike Heaton, Johannes Heidecke, Chris Hesse, Alan Hickey, Wade Hickey,
+  Peter Hoeschele, Brandon Houghton, Kenny Hsu, Shengli Hu, Xin Hu, Joost
+  Huizinga, Shantanu Jain, Shawn Jain, Joanne Jang, Angela Jiang, Roger Jiang,
+  Haozhun Jin, Denny Jin, Shino Jomoto, Billie Jonn, Heewoo Jun, Tomer Kaftan,
+  Łukasz Kaiser, Ali Kamali, Ingmar Kanitscheider, Nitish~Shirish Keskar,
+  Tabarak Khan, Logan Kilpatrick, Jong~Wook Kim, Christina Kim, Yongjik Kim,
+  Hendrik Kirchner, Jamie Kiros, Matt Knight, Daniel Kokotajlo, Łukasz
+  Kondraciuk, Andrew Kondrich, Aris Konstantinidis, Kyle Kosic, Gretchen
+  Krueger, Vishal Kuo, Michael Lampe, Ikai Lan, Teddy Lee, Jan Leike, Jade
+  Leung, Daniel Levy, Chak~Ming Li, Rachel Lim, Molly Lin, Stephanie Lin,
+  Mateusz Litwin, Theresa Lopez, Ryan Lowe, Patricia Lue, Anna Makanju, Kim
+  Malfacini, Sam Manning, Todor Markov, Yaniv Markovski, Bianca Martin, Katie
+  Mayer, Andrew Mayne, Bob McGrew, Scott~Mayer McKinney, Christine McLeavey,
+  Paul McMillan, Jake McNeil, David Medina, Aalok Mehta, Jacob Menick, Luke
+  Metz, Andrey Mishchenko, Pamela Mishkin, Vinnie Monaco, Evan Morikawa, Daniel
+  Mossing, Tong Mu, Mira Murati, Oleg Murk, David Mély, Ashvin Nair, Reiichiro
+  Nakano, Rajeev Nayak, Arvind Neelakantan, Richard Ngo, Hyeonwoo Noh, Long
+  Ouyang, Cullen O'Keefe, Jakub Pachocki, Alex Paino, Joe Palermo, Ashley
+  Pantuliano, Giambattista Parascandolo, Joel Parish, Emy Parparita, Alex
+  Passos, Mikhail Pavlov, Andrew Peng, Adam Perelman, Filipe de~Avila
+  Belbute~Peres, Michael Petrov, Henrique~Ponde de~Oliveira~Pinto, Michael,
+  Pokorny, Michelle Pokrass, Vitchyr Pong, Tolly Powell, Alethea Power, Boris
+  Power, Elizabeth Proehl, Raul Puri, Alec Radford, Jack Rae, Aditya Ramesh,
+  Cameron Raymond, Francis Real, Kendra Rimbach, Carl Ross, Bob Rotsted, Henri
+  Roussez, Nick Ryder, Mario Saltarelli, Ted Sanders, Shibani Santurkar, Girish
+  Sastry, Heather Schmidt, David Schnurr, John Schulman, Daniel Selsam, Kyla
+  Sheppard, Toki Sherbakov, Jessica Shieh, Sarah Shoker, Pranav Shyam, Szymon
+  Sidor, Eric Sigler, Maddie Simens, Jordan Sitkin, Katarina Slama, Ian Sohl,
+  Benjamin Sokolowsky, Yang Song, Natalie Staudacher, Felipe~Petroski Such,
+  Natalie Summers, Ilya Sutskever, Jie Tang, Nikolas Tezak, Madeleine Thompson,
+  Phil Tillet, Amin Tootoonchian, Elizabeth Tseng, Preston Tuggle, Nick Turley,
+  Jerry Tworek, Juan Felipe~Cerón Uribe, Andrea Vallone, Arun Vijayvergiya,
+  Chelsea Voss, Carroll Wainwright, Justin~Jay Wang, Alvin Wang, Ben Wang,
+  Jonathan Ward, Jason Wei, CJ~Weinmann, Akila Welihinda, Peter Welinder, Jiayi
+  Weng, Lilian Weng, Matt Wiethoff, Dave Willner, Clemens Winter, Samuel
+  Wolrich, Hannah Wong, Lauren Workman, Sherwin Wu, Jeff Wu, Michael Wu, Kai
+  Xiao, Tao Xu, Sarah Yoo, Kevin Yu, Qiming Yuan, Wojciech Zaremba, Rowan
+  Zellers, Chong Zhang, Marvin Zhang, Shengjia Zhao, Tianhao Zheng, Juntang
+  Zhuang, William Zhuk, and Barret Zoph.
+\newblock Gpt-4 technical report, 2023.
+
+\bibitem{bib:openai2023_dalle_3}
+OpenAI.
+\newblock Dall-e 3 system card, 2023.
+
+\bibitem{bib:poole2022dreamfusion}
+Ben Poole, Ajay Jain, Jonathan~T. Barron, and Ben Mildenhall.
+\newblock Dreamfusion: Text-to-3d using 2d diffusion, 2022.
+
+\bibitem{bib:raffel2023exploring_T5_arch}
+Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael
+  Matena, Yanqi Zhou, Wei Li, and Peter~J. Liu.
+\newblock Exploring the limits of transfer learning with a unified text-to-text
+  transformer, 2023.
+
+\bibitem{bib:ramesh2022hierarchical_dalle_2}
+Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, and Mark Chen.
+\newblock Hierarchical text-conditional image generation with clip latents,
+  2022.
+
+\bibitem{bib:ramesh2021zeroshot_dall_e}
+Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec
+  Radford, Mark Chen, and Ilya Sutskever.
+\newblock Zero-shot text-to-image generation, 2021.
+
+\bibitem{bib:razavi2019generating_vq_vae}
+Ali Razavi, Aaron van~den Oord, and Oriol Vinyals.
+\newblock Generating diverse high-fidelity images with vq-vae-2, 2019.
+
+\bibitem{bib:rombach2022highresolution}
+Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, and Björn
+  Ommer.
+\newblock High-resolution image synthesis with latent diffusion models, 2022.
+
+\bibitem{bib:huggFace_sd_chcp_v_1_5}
+Robin Rombach and Patrick Esser.
+\newblock Huffing face, stable-diffusion-v1-5 model card, 2023.
+
+\bibitem{bib:saharia2022photorealistic_imagen}
+Chitwan Saharia, William Chan, Saurabh Saxena, Lala Li, Jay Whang, Emily
+  Denton, Seyed Kamyar~Seyed Ghasemipour, Burcu~Karagol Ayan, S.~Sara Mahdavi,
+  Rapha~Gontijo Lopes, Tim Salimans, Jonathan Ho, David~J Fleet, and Mohammad
+  Norouzi.
+\newblock Photorealistic text-to-image diffusion models with deep language
+  understanding, 2022.
+
+\bibitem{bib:Sheikh2023MissionAI}
+Haroon Sheikh, Corien Prins, and Erik Schrijvers.
+\newblock {\em Mission AI: The New System Technology}.
+\newblock Springer International Publishing, 2023.
+
+\bibitem{bib:singer2022makeavideo}
+Uriel Singer, Adam Polyak, Thomas Hayes, Xi~Yin, Jie An, Songyang Zhang, Qiyuan
+  Hu, Harry Yang, Oron Ashual, Oran Gafni, Devi Parikh, Sonal Gupta, and Yaniv
+  Taigman.
+\newblock Make-a-video: Text-to-video generation without text-video data, 2022.
+
+\bibitem{bib:sohldickstein2015deep_lear_Noneq_therm}
+Jascha Sohl-Dickstein, Eric~A. Weiss, Niru Maheswaranathan, and Surya Ganguli.
+\newblock Deep unsupervised learning using nonequilibrium thermodynamics, 2015.
+
+\bibitem{bib:sorzano2014survey}
+C.~O.~S. Sorzano, J.~Vargas, and A.~Pascual Montano.
+\newblock A survey of dimensionality reduction techniques, 2014.
+
+\bibitem{bib:srivastava2023imitation_big_bench}
+Aarohi Srivastava, Abhinav Rastogi, Abhishek Rao, Abu Awal~Md Shoeb, Abubakar
+  Abid, Adam Fisch, Adam~R. Brown, Adam Santoro, Aditya Gupta, Adrià
+  Garriga-Alonso, Agnieszka Kluska, Aitor Lewkowycz, Akshat Agarwal, Alethea
+  Power, Alex Ray, Alex Warstadt, Alexander~W. Kocurek, Ali Safaya, Ali Tazarv,
+  Alice Xiang, Alicia Parrish, Allen Nie, Aman Hussain, Amanda Askell, Amanda
+  Dsouza, Ambrose Slone, Ameet Rahane, Anantharaman~S. Iyer, Anders Andreassen,
+  Andrea Madotto, Andrea Santilli, Andreas Stuhlmüller, Andrew Dai, Andrew La,
+  Andrew Lampinen, Andy Zou, Angela Jiang, Angelica Chen, Anh Vuong, Animesh
+  Gupta, Anna Gottardi, Antonio Norelli, Anu Venkatesh, Arash Gholamidavoodi,
+  Arfa Tabassum, Arul Menezes, Arun Kirubarajan, Asher Mullokandov, Ashish
+  Sabharwal, Austin Herrick, Avia Efrat, Aykut Erdem, Ayla Karakaş, B.~Ryan
+  Roberts, Bao~Sheng Loe, Barret Zoph, Bartłomiej Bojanowski, Batuhan Özyurt,
+  Behnam Hedayatnia, Behnam Neyshabur, Benjamin Inden, Benno Stein, Berk
+  Ekmekci, Bill~Yuchen Lin, Blake Howald, Bryan Orinion, Cameron Diao, Cameron
+  Dour, Catherine Stinson, Cedrick Argueta, César~Ferri Ramírez, Chandan
+  Singh, Charles Rathkopf, Chenlin Meng, Chitta Baral, Chiyu Wu, Chris
+  Callison-Burch, Chris Waites, Christian Voigt, Christopher~D. Manning,
+  Christopher Potts, Cindy Ramirez, Clara~E. Rivera, Clemencia Siro, Colin
+  Raffel, Courtney Ashcraft, Cristina Garbacea, Damien Sileo, Dan Garrette, Dan
+  Hendrycks, Dan Kilman, Dan Roth, Daniel Freeman, Daniel Khashabi, Daniel
+  Levy, Daniel~Moseguí González, Danielle Perszyk, Danny Hernandez, Danqi
+  Chen, Daphne Ippolito, Dar Gilboa, David Dohan, David Drakard, David Jurgens,
+  Debajyoti Datta, Deep Ganguli, Denis Emelin, Denis Kleyko, Deniz Yuret, Derek
+  Chen, Derek Tam, Dieuwke Hupkes, Diganta Misra, Dilyar Buzan, Dimitri~Coelho
+  Mollo, Diyi Yang, Dong-Ho Lee, Dylan Schrader, Ekaterina Shutova, Ekin~Dogus
+  Cubuk, Elad Segal, Eleanor Hagerman, Elizabeth Barnes, Elizabeth Donoway,
+  Ellie Pavlick, Emanuele Rodola, Emma Lam, Eric Chu, Eric Tang, Erkut Erdem,
+  Ernie Chang, Ethan~A. Chi, Ethan Dyer, Ethan Jerzak, Ethan Kim, Eunice~Engefu
+  Manyasi, Evgenii Zheltonozhskii, Fanyue Xia, Fatemeh Siar, Fernando
+  Martínez-Plumed, Francesca Happé, Francois Chollet, Frieda Rong, Gaurav
+  Mishra, Genta~Indra Winata, Gerard de~Melo, Germán Kruszewski, Giambattista
+  Parascandolo, Giorgio Mariani, Gloria Wang, Gonzalo Jaimovitch-López, Gregor
+  Betz, Guy Gur-Ari, Hana Galijasevic, Hannah Kim, Hannah Rashkin, Hannaneh
+  Hajishirzi, Harsh Mehta, Hayden Bogar, Henry Shevlin, Hinrich Schütze,
+  Hiromu Yakura, Hongming Zhang, Hugh~Mee Wong, Ian Ng, Isaac Noble, Jaap
+  Jumelet, Jack Geissinger, Jackson Kernion, Jacob Hilton, Jaehoon Lee,
+  Jaime~Fernández Fisac, James~B. Simon, James Koppel, James Zheng, James Zou,
+  Jan Kocoń, Jana Thompson, Janelle Wingfield, Jared Kaplan, Jarema Radom,
+  Jascha Sohl-Dickstein, Jason Phang, Jason Wei, Jason Yosinski, Jekaterina
+  Novikova, Jelle Bosscher, Jennifer Marsh, Jeremy Kim, Jeroen Taal, Jesse
+  Engel, Jesujoba Alabi, Jiacheng Xu, Jiaming Song, Jillian Tang, Joan Waweru,
+  John Burden, John Miller, John~U. Balis, Jonathan Batchelder, Jonathan
+  Berant, Jörg Frohberg, Jos Rozen, Jose Hernandez-Orallo, Joseph Boudeman,
+  Joseph Guerr, Joseph Jones, Joshua~B. Tenenbaum, Joshua~S. Rule, Joyce Chua,
+  Kamil Kanclerz, Karen Livescu, Karl Krauth, Karthik Gopalakrishnan, Katerina
+  Ignatyeva, Katja Markert, Kaustubh~D. Dhole, Kevin Gimpel, Kevin Omondi, Kory
+  Mathewson, Kristen Chiafullo, Ksenia Shkaruta, Kumar Shridhar, Kyle McDonell,
+  Kyle Richardson, Laria Reynolds, Leo Gao, Li~Zhang, Liam Dugan, Lianhui Qin,
+  Lidia Contreras-Ochando, Louis-Philippe Morency, Luca Moschella, Lucas Lam,
+  Lucy Noble, Ludwig Schmidt, Luheng He, Luis~Oliveros Colón, Luke Metz,
+  Lütfi~Kerem Şenel, Maarten Bosma, Maarten Sap, Maartje ter Hoeve, Maheen
+  Farooqi, Manaal Faruqui, Mantas Mazeika, Marco Baturan, Marco Marelli, Marco
+  Maru, Maria Jose~Ramírez Quintana, Marie Tolkiehn, Mario Giulianelli, Martha
+  Lewis, Martin Potthast, Matthew~L. Leavitt, Matthias Hagen, Mátyás
+  Schubert, Medina~Orduna Baitemirova, Melody Arnaud, Melvin McElrath,
+  Michael~A. Yee, Michael Cohen, Michael Gu, Michael Ivanitskiy, Michael
+  Starritt, Michael Strube, Michał Swędrowski, Michele Bevilacqua, Michihiro
+  Yasunaga, Mihir Kale, Mike Cain, Mimee Xu, Mirac Suzgun, Mitch Walker,
+  Mo~Tiwari, Mohit Bansal, Moin Aminnaseri, Mor Geva, Mozhdeh Gheini,
+  Mukund~Varma T, Nanyun Peng, Nathan~A. Chi, Nayeon Lee, Neta Gur-Ari
+  Krakover, Nicholas Cameron, Nicholas Roberts, Nick Doiron, Nicole Martinez,
+  Nikita Nangia, Niklas Deckers, Niklas Muennighoff, Nitish~Shirish Keskar,
+  Niveditha~S. Iyer, Noah Constant, Noah Fiedel, Nuan Wen, Oliver Zhang, Omar
+  Agha, Omar Elbaghdadi, Omer Levy, Owain Evans, Pablo Antonio~Moreno Casares,
+  Parth Doshi, Pascale Fung, Paul~Pu Liang, Paul Vicol, Pegah Alipoormolabashi,
+  Peiyuan Liao, Percy Liang, Peter Chang, Peter Eckersley, Phu~Mon Htut, Pinyu
+  Hwang, Piotr Miłkowski, Piyush Patil, Pouya Pezeshkpour, Priti Oli, Qiaozhu
+  Mei, Qing Lyu, Qinlang Chen, Rabin Banjade, Rachel~Etta Rudolph, Raefer
+  Gabriel, Rahel Habacker, Ramon Risco, Raphaël Millière, Rhythm Garg,
+  Richard Barnes, Rif~A. Saurous, Riku Arakawa, Robbe Raymaekers, Robert Frank,
+  Rohan Sikand, Roman Novak, Roman Sitelew, Ronan LeBras, Rosanne Liu, Rowan
+  Jacobs, Rui Zhang, Ruslan Salakhutdinov, Ryan Chi, Ryan Lee, Ryan Stovall,
+  Ryan Teehan, Rylan Yang, Sahib Singh, Saif~M. Mohammad, Sajant Anand, Sam
+  Dillavou, Sam Shleifer, Sam Wiseman, Samuel Gruetter, Samuel~R. Bowman,
+  Samuel~S. Schoenholz, Sanghyun Han, Sanjeev Kwatra, Sarah~A. Rous, Sarik
+  Ghazarian, Sayan Ghosh, Sean Casey, Sebastian Bischoff, Sebastian Gehrmann,
+  Sebastian Schuster, Sepideh Sadeghi, Shadi Hamdan, Sharon Zhou, Shashank
+  Srivastava, Sherry Shi, Shikhar Singh, Shima Asaadi, Shixiang~Shane Gu, Shubh
+  Pachchigar, Shubham Toshniwal, Shyam Upadhyay, Shyamolima, Debnath, Siamak
+  Shakeri, Simon Thormeyer, Simone Melzi, Siva Reddy, Sneha~Priscilla Makini,
+  Soo-Hwan Lee, Spencer Torene, Sriharsha Hatwar, Stanislas Dehaene, Stefan
+  Divic, Stefano Ermon, Stella Biderman, Stephanie Lin, Stephen Prasad,
+  Steven~T. Piantadosi, Stuart~M. Shieber, Summer Misherghi, Svetlana
+  Kiritchenko, Swaroop Mishra, Tal Linzen, Tal Schuster, Tao Li, Tao Yu, Tariq
+  Ali, Tatsu Hashimoto, Te-Lin Wu, Théo Desbordes, Theodore Rothschild, Thomas
+  Phan, Tianle Wang, Tiberius Nkinyili, Timo Schick, Timofei Kornev, Titus
+  Tunduny, Tobias Gerstenberg, Trenton Chang, Trishala Neeraj, Tushar Khot,
+  Tyler Shultz, Uri Shaham, Vedant Misra, Vera Demberg, Victoria Nyamai, Vikas
+  Raunak, Vinay Ramasesh, Vinay~Uday Prabhu, Vishakh Padmakumar, Vivek
+  Srikumar, William Fedus, William Saunders, William Zhang, Wout Vossen, Xiang
+  Ren, Xiaoyu Tong, Xinran Zhao, Xinyi Wu, Xudong Shen, Yadollah Yaghoobzadeh,
+  Yair Lakretz, Yangqiu Song, Yasaman Bahri, Yejin Choi, Yichi Yang, Yiding
+  Hao, Yifu Chen, Yonatan Belinkov, Yu~Hou, Yufang Hou, Yuntao Bai, Zachary
+  Seid, Zhuoye Zhao, Zijian Wang, Zijie~J. Wang, Zirui Wang, and Ziyi Wu.
+\newblock Beyond the imitation game: Quantifying and extrapolating the
+  capabilities of language models, 2023.
+
+\bibitem{bib:eubookDefAI_2019}
+{The European Commission}.
+\newblock {\em A definition of AI: Main capabilities and scientific
+  disciplines}.
+\newblock The European Commission, 2019.
+
+\bibitem{bib:touvron2023llama}
+Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne
+  Lachaux, Timothée Lacroix, Baptiste Rozière, Naman Goyal, Eric Hambro,
+  Faisal Azhar, Aurelien Rodriguez, Armand Joulin, Edouard Grave, and Guillaume
+  Lample.
+\newblock Llama: Open and efficient foundation language models, 2023.
+
+\bibitem{bib:vaswani2023attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N. Gomez, Lukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need, 2023.
+
+\bibitem{bib:villegas2022phenaki}
+Ruben Villegas, Mohammad Babaeizadeh, Pieter-Jan Kindermans, Hernan Moraldo,
+  Han Zhang, Mohammad~Taghi Saffar, Santiago Castro, Julius Kunze, and Dumitru
+  Erhan.
+\newblock Phenaki: Variable length video generation from open domain textual
+  description, 2022.
+
+\bibitem{bib:wang2023neural_valle}
+Chengyi Wang, Sanyuan Chen, Yu~Wu, Ziqiang Zhang, Long Zhou, Shujie Liu, Zhuo
+  Chen, Yanqing Liu, Huaming Wang, Jinyu Li, Lei He, Sheng Zhao, and Furu Wei.
+\newblock Neural codec language models are zero-shot text to speech
+  synthesizers, 2023.
+
+\bibitem{bib:wang2023imagedream}
+Peng Wang and Yichun Shi.
+\newblock Imagedream: Image-prompt multi-view diffusion for 3d generation,
+  2023.
+
+\bibitem{bib:wang2021codet5}
+Yue Wang, Weishi Wang, Shafiq Joty, and Steven C.~H. Hoi.
+\newblock Codet5: Identifier-aware unified pre-trained encoder-decoder models
+  for code understanding and generation, 2021.
+
+\bibitem{bib:workshop2023bloom}
+BigScience Workshop, :, Teven~Le Scao, Angela Fan, Christopher Akiki, Ellie
+  Pavlick, Suzana Ilić, Daniel Hesslow, Roman Castagné, Alexandra~Sasha
+  Luccioni, François Yvon, Matthias Gallé, Jonathan Tow, Alexander~M. Rush,
+  Stella Biderman, Albert Webson, Pawan~Sasanka Ammanamanchi, Thomas Wang,
+  Benoît Sagot, Niklas Muennighoff, Albert~Villanova del Moral, Olatunji
+  Ruwase, Rachel Bawden, Stas Bekman, Angelina McMillan-Major, Iz~Beltagy, Huu
+  Nguyen, Lucile Saulnier, Samson Tan, Pedro~Ortiz Suarez, Victor Sanh, Hugo
+  Laurençon, Yacine Jernite, Julien Launay, Margaret Mitchell, Colin Raffel,
+  Aaron Gokaslan, Adi Simhi, Aitor Soroa, Alham~Fikri Aji, Amit Alfassy, Anna
+  Rogers, Ariel~Kreisberg Nitzav, Canwen Xu, Chenghao Mou, Chris Emezue,
+  Christopher Klamm, Colin Leong, Daniel van Strien, David~Ifeoluwa Adelani,
+  Dragomir Radev, Eduardo~González Ponferrada, Efrat Levkovizh, Ethan Kim,
+  Eyal~Bar Natan, Francesco~De Toni, Gérard Dupont, Germán Kruszewski, Giada
+  Pistilli, Hady Elsahar, Hamza Benyamina, Hieu Tran, Ian Yu, Idris Abdulmumin,
+  Isaac Johnson, Itziar Gonzalez-Dios, Javier de~la Rosa, Jenny Chim, Jesse
+  Dodge, Jian Zhu, Jonathan Chang, Jörg Frohberg, Joseph Tobing, Joydeep
+  Bhattacharjee, Khalid Almubarak, Kimbo Chen, Kyle Lo, Leandro~Von Werra, Leon
+  Weber, Long Phan, Loubna~Ben allal, Ludovic Tanguy, Manan Dey, Manuel~Romero
+  Muñoz, Maraim Masoud, María Grandury, Mario Šaško, Max Huang, Maximin
+  Coavoux, Mayank Singh, Mike Tian-Jian Jiang, Minh~Chien Vu, Mohammad~A.
+  Jauhar, Mustafa Ghaleb, Nishant Subramani, Nora Kassner, Nurulaqilla Khamis,
+  Olivier Nguyen, Omar Espejel, Ona de~Gibert, Paulo Villegas, Peter Henderson,
+  Pierre Colombo, Priscilla Amuok, Quentin Lhoest, Rheza Harliman, Rishi
+  Bommasani, Roberto~Luis López, Rui Ribeiro, Salomey Osei, Sampo Pyysalo,
+  Sebastian Nagel, Shamik Bose, Shamsuddeen~Hassan Muhammad, Shanya Sharma,
+  Shayne Longpre, Somaieh Nikpoor, Stanislav Silberberg, Suhas Pai, Sydney
+  Zink, Tiago~Timponi Torrent, Timo Schick, Tristan Thrush, Valentin Danchev,
+  Vassilina Nikoulina, Veronika Laippala, Violette Lepercq, Vrinda Prabhu, Zaid
+  Alyafeai, Zeerak Talat, Arun Raja, Benjamin Heinzerling, Chenglei Si,
+  Davut~Emre Taşar, Elizabeth Salesky, Sabrina~J. Mielke, Wilson~Y. Lee,
+  Abheesht Sharma, Andrea Santilli, Antoine Chaffin, Arnaud Stiegler, Debajyoti
+  Datta, Eliza Szczechla, Gunjan Chhablani, Han Wang, Harshit Pandey, Hendrik
+  Strobelt, Jason~Alan Fries, Jos Rozen, Leo Gao, Lintang Sutawika, M~Saiful
+  Bari, Maged~S. Al-shaibani, Matteo Manica, Nihal Nayak, Ryan Teehan, Samuel
+  Albanie, Sheng Shen, Srulik Ben-David, Stephen~H. Bach, Taewoon Kim, Tali
+  Bers, Thibault Fevry, Trishala Neeraj, Urmish Thakker, Vikas Raunak, Xiangru
+  Tang, Zheng-Xin Yong, Zhiqing Sun, Shaked Brody, Yallow Uri, Hadar Tojarieh,
+  Adam Roberts, Hyung~Won Chung, Jaesung Tae, Jason Phang, Ofir Press, Conglong
+  Li, Deepak Narayanan, Hatim Bourfoune, Jared Casper, Jeff Rasley, Max
+  Ryabinin, Mayank Mishra, Minjia Zhang, Mohammad Shoeybi, Myriam Peyrounette,
+  Nicolas Patry, Nouamane Tazi, Omar Sanseviero, Patrick von Platen, Pierre
+  Cornette, Pierre~François Lavallée, Rémi Lacroix, Samyam Rajbhandari,
+  Sanchit Gandhi, Shaden Smith, Stéphane Requena, Suraj Patil, Tim Dettmers,
+  Ahmed Baruwa, Amanpreet Singh, Anastasia Cheveleva, Anne-Laure Ligozat, Arjun
+  Subramonian, Aurélie Névéol, Charles Lovering, Dan Garrette, Deepak
+  Tunuguntla, Ehud Reiter, Ekaterina Taktasheva, Ekaterina Voloshina, Eli
+  Bogdanov, Genta~Indra Winata, Hailey Schoelkopf, Jan-Christoph Kalo,
+  Jekaterina Novikova, Jessica~Zosa Forde, Jordan Clive, Jungo Kasai, Ken
+  Kawamura, Liam Hazan, Marine Carpuat, Miruna Clinciu, Najoung Kim, Newton
+  Cheng, Oleg Serikov, Omer Antverg, Oskar van~der Wal, Rui Zhang, Ruochen
+  Zhang, Sebastian Gehrmann, Shachar Mirkin, Shani Pais, Tatiana Shavrina,
+  Thomas Scialom, Tian Yun, Tomasz Limisiewicz, Verena Rieser, Vitaly Protasov,
+  Vladislav Mikhailov, Yada Pruksachatkun, Yonatan Belinkov, Zachary Bamberger,
+  Zdeněk Kasner, Alice Rueda, Amanda Pestana, Amir Feizpour, Ammar Khan, Amy
+  Faranak, Ana Santos, Anthony Hevia, Antigona Unldreaj, Arash Aghagol, Arezoo
+  Abdollahi, Aycha Tammour, Azadeh HajiHosseini, Bahareh Behroozi, Benjamin
+  Ajibade, Bharat Saxena, Carlos~Muñoz Ferrandis, Daniel McDuff, Danish
+  Contractor, David Lansky, Davis David, Douwe Kiela, Duong~A. Nguyen, Edward
+  Tan, Emi Baylor, Ezinwanne Ozoani, Fatima Mirza, Frankline Ononiwu, Habib
+  Rezanejad, Hessie Jones, Indrani Bhattacharya, Irene Solaiman, Irina Sedenko,
+  Isar Nejadgholi, Jesse Passmore, Josh Seltzer, Julio~Bonis Sanz, Livia Dutra,
+  Mairon Samagaio, Maraim Elbadri, Margot Mieskes, Marissa Gerchick, Martha
+  Akinlolu, Michael McKenna, Mike Qiu, Muhammed Ghauri, Mykola Burynok, Nafis
+  Abrar, Nazneen Rajani, Nour Elkott, Nour Fahmy, Olanrewaju Samuel, Ran An,
+  Rasmus Kromann, Ryan Hao, Samira Alizadeh, Sarmad Shubber, Silas Wang, Sourav
+  Roy, Sylvain Viguier, Thanh Le, Tobi Oyebade, Trieu Le, Yoyo Yang, Zach
+  Nguyen, Abhinav~Ramesh Kashyap, Alfredo Palasciano, Alison Callahan, Anima
+  Shukla, Antonio Miranda-Escalada, Ayush Singh, Benjamin Beilharz, Bo~Wang,
+  Caio Brito, Chenxi Zhou, Chirag Jain, Chuxin Xu, Clémentine Fourrier,
+  Daniel~León Periñán, Daniel Molano, Dian Yu, Enrique Manjavacas, Fabio
+  Barth, Florian Fuhrimann, Gabriel Altay, Giyaseddin Bayrak, Gully Burns,
+  Helena~U. Vrabec, Imane Bello, Ishani Dash, Jihyun Kang, John Giorgi, Jonas
+  Golde, Jose~David Posada, Karthik~Rangasai Sivaraman, Lokesh Bulchandani,
+  Lu~Liu, Luisa Shinzato, Madeleine~Hahn de~Bykhovetz, Maiko Takeuchi, Marc
+  Pàmies, Maria~A Castillo, Marianna Nezhurina, Mario Sänger, Matthias
+  Samwald, Michael Cullan, Michael Weinberg, Michiel~De Wolf, Mina Mihaljcic,
+  Minna Liu, Moritz Freidank, Myungsun Kang, Natasha Seelam, Nathan Dahlberg,
+  Nicholas~Michio Broad, Nikolaus Muellner, Pascale Fung, Patrick Haller, Ramya
+  Chandrasekhar, Renata Eisenberg, Robert Martin, Rodrigo Canalli, Rosaline Su,
+  Ruisi Su, Samuel Cahyawijaya, Samuele Garda, Shlok~S Deshmukh, Shubhanshu
+  Mishra, Sid Kiblawi, Simon Ott, Sinee Sang-aroonsiri, Srishti Kumar, Stefan
+  Schweter, Sushil Bharati, Tanmay Laud, Théo Gigant, Tomoya Kainuma, Wojciech
+  Kusa, Yanis Labrak, Yash~Shailesh Bajaj, Yash Venkatraman, Yifan Xu, Yingxin
+  Xu, Yu~Xu, Zhe Tan, Zhongli Xie, Zifan Ye, Mathilde Bras, Younes Belkada, and
+  Thomas Wolf.
+\newblock Bloom: A 176b-parameter open-access multilingual language model,
+  2023.
+
+\bibitem{bib:yang2024diffusion_survey}
+Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Wentao
+  Zhang, Bin Cui, and Ming-Hsuan Yang.
+\newblock Diffusion models: A comprehensive survey of methods and applications,
+  2024.
+
+\bibitem{bib:zeghidour2021soundstream}
+Neil Zeghidour, Alejandro Luebs, Ahmed Omran, Jan Skoglund, and Marco
+  Tagliasacchi.
+\newblock Soundstream: An end-to-end neural audio codec, 2021.
+
+\bibitem{bib:zhou20213d}
+Linqi Zhou, Yilun Du, and Jiajun Wu.
+\newblock 3d shape generation and completion through point-voxel diffusion,
+  2021.
+
+\end{thebibliography}
