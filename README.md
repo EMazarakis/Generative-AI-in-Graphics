@@ -13,15 +13,15 @@ Then we talk about some fundamental deep learning architectures that used on gen
 Then we offer a classification of some of the advanced GAI algorithms.
 The categorization of the models have been done based on the generated content, output.
 
-In addition, in the second chapter we examine four models. We run the models, based on some parameters that we defined. 
-> [!WARNING] ** TODO **
+In the subsequent chapter, we elucidate the three models under scrutiny, namely, the prevalent open-source frameworks (Stable Diffusion and Crayon (DALLE mini)), alongside the commercial counterpart, DALL-E 2. These models share three common hyperparameters: prompt, height, and width, thus guiding our experimental setup. Subsequently, we conducted model executions based on these parameters. To conduct a human evaluation of these models, we present a benchmark comprising six task-types, each consisting of twelve prompts.
 
-Finally, in the third and last chapter of this thesis there are the conclusions obtained from the execution of the Generative AI models for the graphics. It also mentions some important challenges around models in the field of graphics.
+In the conclusive third chapter of this thesis, the outcomes of the human evaluation stemming from the implementation of Generative AI models for graphics are presented. Additionally, notable discoveries pertaining to these three models within the graphics domain are discussed.
+
 
 # Evaluated Models
 We perform a human evaluation comparing the most common open-source (Stable Diffusion, Crayon(DALLE mini) ), and commercial (DALL-E 2) models. 
 These models have 3 common hyperparameters: prompt, height, width. 
-For the evaluation of these three models, we provide a benchmark of seven task-types with twelve prompts of each task type.
+For the evaluation of these three models, we provide a benchmark of six task-types with twelve prompts of each task type.
 
 # Benchmarking
 We provide a multi-task benchmark for evaluating the text-to-image models. Our benchmark contains a suite of tasks over multiple applications that capture a model’s ability to handle different features of a text prompt.
@@ -33,7 +33,7 @@ Our benchmark contains:
 5. positional task: The prompt is used to examine the ability of image generation systems to generate images with accurate positional information.
 6. faces task: The prompt is used to examine the ability of image generation systems to generate images with accurate facing information.
 
-Each task type contains 12 prompts and each task type consists of three difficulty levels (easy,medium, and hard). Our evaluation protocol consists of human ratings. 
+Each task type contains 12 prompts and each task type consists of three difficulty levels (easy, medium, and hard). Our evaluation protocol consists of human ratings. 
 For each prompt, the rater is shown images which are from DALLE-2, from Stable Diffusion, and from Crayon. 
 The human rater will be asked one question:
 1. The image represents the caption: [Text Caption]?
@@ -50,8 +50,8 @@ will be presented in the form of a graph.
 The folder [Produced Images](https://github.com/EMazarakis/Generative-AI-in-Graphics/tree/main/Generative%20Images) contains per model, size and task type the generative images in which we did human evaluation.
 The folder contains sub-folder per model:
 1. CR = Crayon (Dalle-mini)
-2. DL = DALLE
-3. SD= Stable diffusion
+2. DL = DALL-E 2
+3. SD = Stable diffusion
 
 The structure of the folder is
 1. CR 
@@ -87,7 +87,7 @@ The structure of the folder is
 All the relevant latex files for the master thesis is under the directory [latex](https://github.com/EMazarakis/Generative-AI-in-Graphics/tree/main/Latex%20Files)
 
 # Python Code
-This file contain the python code that we used in order to create DALLE images through openai API [python-dalle-api-call](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Python%20Code/PythonApplication5.py) 
+This file contain the python code that we used in order to create DALL-E 2 images through openai API [python-dalle-api-call](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Python%20Code/PythonApplication5.py) 
 
 # Master Thesis
 :point_right: To see and download the master thesis you can go to: [Master Thesis](Master Thesis/Master_Thesis_en.pdf).
