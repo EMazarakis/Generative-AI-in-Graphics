@@ -8,4 +8,6 @@ To run the stable diffusion model locally on our pc we must do the following:
 3. Then we have to install the stable diffusion webui to our pc. We can clone the repository from the following link: [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 4. We go to the above link and copy the url. We open a **cmd** and run the following command:
    - git clone  https://github.com/AUTOMATIC1111/stable-diffusion-webui.
-6. todo
+6. Then we have to install the model. We can download it from the following link: [stable diffusion model](https://huggingface.co/runwayml/stable-diffusion-v1-5)
+   - From this page we download the v1-5-pruned-emaonly.ckpt.
+7. After the download of the model completed, we have to added it to the following folder of the cloned repository
