@@ -28,7 +28,6 @@ This folder contains the python code files. In order to create DALL-E 2 images t
 
 ## Stable Diffusion
 This folder conatins the installation instructions of the stable diffusion v.1.5 model and of the relevant web-ui in order to execute the model. [stable disffusion](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Stable%20Diffusion/Installation_Instructions.md)
-Also, it contains the ckpt file of the model, which is the model itself.
 
 # Benchmarking
 We provide a multi-task benchmark for evaluating the text-to-image models. Our benchmark contains a suite of tasks over multiple applications that capture a model’s ability to handle different features of a text prompt.
