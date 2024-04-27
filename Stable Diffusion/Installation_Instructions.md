@@ -26,5 +26,4 @@ To run the stable diffusion model locally on our pc we must do the following:
 9. Then we run the **webui-user** (windows batch file).
 10. After the run, the url of the web-ui will open automatically or you can take it through the cmd window.
 11. The wub-ui is as the following image:
-12. ![web-ui](/images/stable diffusion webui.PNG)
-
+    ![web-ui](/images/stable_diffusion_webui.PNG)
