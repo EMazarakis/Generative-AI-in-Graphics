@@ -23,8 +23,8 @@ We perform a human evaluation comparing the most common open-source (Stable Diff
 These models have 3 common hyperparameters: prompt, height, width. 
 For the evaluation of these three models, we provide a benchmark of six task-types with twelve prompts of each task type.
 
-## Python Code
-This file contain the python code that we used in order to create DALL-E 2 images through openai API [python-dalle-api-call](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Python%20Code/PythonApplication5.py) 
+## DALL-E 2
+This folder contain the python code files. In order to create DALL-E 2 images through openai API we used the file [python-dalle-api-call](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/DALL-E%202/PythonApplication5.py) 
 
 # Benchmarking
 We provide a multi-task benchmark for evaluating the text-to-image models. Our benchmark contains a suite of tasks over multiple applications that capture a model’s ability to handle different features of a text prompt.
