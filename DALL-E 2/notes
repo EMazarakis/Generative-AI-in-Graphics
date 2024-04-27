@@ -1,0 +1,3 @@
+
+This folder contains python code files for using dall-e 2 api.
+The file PythonApplication3.py uses the pip install openai==0.28.0.
