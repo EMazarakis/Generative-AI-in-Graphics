@@ -24,9 +24,11 @@ These models have 3 common hyperparameters: prompt, height, width.
 For the evaluation of these three models, we provide a benchmark of six task-types with twelve prompts of each task type.
 
 ## DALL-E 2
-This folder contain the python code files. In order to create DALL-E 2 images through openai API we used the file [python-dalle-api-call](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/DALL-E%202/PythonApplication5.py) 
+This folder contains the python code files. In order to create DALL-E 2 images through openai API we used the file [python-dalle-api-call](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/DALL-E%202/PythonApplication5.py) 
 
-## Stable Diffusion v.1.5
+## Stable Diffusion
+This folder conatins the installation instructions of the stable diffusion v.1.5 model and of the relevant web-ui in order to execute the model. [stable disffusion](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Stable%20Diffusion/Installation_Instructions.md)
+
 
 # Benchmarking
 We provide a multi-task benchmark for evaluating the text-to-image models. Our benchmark contains a suite of tasks over multiple applications that capture a model’s ability to handle different features of a text prompt.
