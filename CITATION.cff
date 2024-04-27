@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Generative-AI-in-Graphics
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Eugene '
+    family-names: Mazarakis
+    email: mazarakiseug@gmail.com
+repository-code: 'https://github.com/EMazarakis/Generative-AI-in-Graphics'
+abstract: >-
+  A summary of the master thesis with title: Generative AI
+  in-Graphics.
+
+  Human evaluation was conducted on three Generative AI
+  models.
+keywords:
+  - Generative AI
+  - DALL-E 2
+  - Stable Diffusion
+  - Generative AI model Human Evaluation
+version: '1.1'
+date-released: '2024-04-27'
