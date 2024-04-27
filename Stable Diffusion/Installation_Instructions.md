@@ -1,6 +1,10 @@
 # Stable Diffusion installation instructions on windows machine
 
 ## Local PC specifications
+* Processor: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz   2.42 GHz
+* Installed RAM: 24,0 GB
+* System Type: 64-bit operating system, x64-based processor
+* OS: Windows 10 Enterprise
 
 ## Installation instructions
 To run the stable diffusion model locally on our pc we must do the following:
@@ -21,3 +25,4 @@ To run the stable diffusion model locally on our pc we must do the following:
    - set COMMANDLINE_ARGS= --skip-torch-cuda-test --precision full --no-half
 9. Then we run the **webui-user** (windows batch file).
 10. After the run, the url of the web-ui will open automatically or you can take it through the cmd window.
+11. The wub-ui is as the following image:
