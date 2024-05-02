@@ -13,13 +13,13 @@ Then we talk about some fundamental deep learning architectures that used on gen
 Then we offer a classification of some of the advanced GAI algorithms.
 The categorization of the models have been done based on the generated content, output.
 
-In the subsequent chapter, we elucidate the three models under scrutiny, namely, the prevalent open-source frameworks (Stable Diffusion and Crayon (DALLE mini)), alongside the commercial counterpart, DALL-E 2. These models share three common hyperparameters: prompt, height, and width, thus guiding our experimental setup. Subsequently, we conducted model executions based on these parameters. To conduct a human evaluation of these models, we present a benchmark comprising six task-types, each consisting of twelve prompts.
+In the subsequent chapter, we elucidate the three models under scrutiny, namely, the prevalent open-source frameworks (Stable Diffusion and Pix-Art-α), alongside the commercial counterpart, DALL-E 2. These models share three common hyperparameters: prompt, height, and width, thus guiding our experimental setup. Subsequently, we conducted model executions based on these parameters. To conduct a human evaluation of these models, we present a benchmark comprising six task-types, each consisting of twelve prompts.
 
 In the conclusive third chapter of this thesis, the outcomes of the human evaluation stemming from the implementation of Generative AI models for graphics are presented. Additionally, notable discoveries pertaining to these three models within the graphics domain are discussed.
 
 
 # Evaluated Models
-We perform a human evaluation comparing the most common open-source (Stable Diffusion, Crayon(DALLE mini) ), and commercial (DALL-E 2) models. 
+We perform a human evaluation comparing the most common open-source (Stable Diffusion, Pix-Art-α), and commercial (DALL-E 2) models. 
 These models have 3 common hyperparameters: prompt, height, width. 
 For the evaluation of these three models, we provide a benchmark of six task-types with twelve prompts of each task type.
 
@@ -27,7 +27,10 @@ For the evaluation of these three models, we provide a benchmark of six task-typ
 This folder contains the python code files. In order to create DALL-E 2 images through openai API we used the file [python-dalle-api-call](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/DALL-E%202/PythonApplication5.py) 
 
 ## Stable Diffusion
-This folder conatins the installation instructions of the stable diffusion v.1.5 model and of the relevant web-ui in order to execute the model. [stable disffusion](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Stable%20Diffusion/Installation_Instructions.md)
+This folder contains the installation instructions of the stable diffusion v.1.5 model and of the relevant web-ui in order to execute the model. [stable disffusion](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Stable%20Diffusion/Installation_Instructions.md)
+
+## Pix-Art-α
+**TODO**
 
 # Benchmarking
 We provide a multi-task benchmark for evaluating the text-to-image models. Our benchmark contains a suite of tasks over multiple applications that capture a model’s ability to handle different features of a text prompt.
@@ -55,12 +58,12 @@ will be presented in the form of a graph.
 # Generative Images
 The folder [Produced Images](https://github.com/EMazarakis/Generative-AI-in-Graphics/tree/main/Generative%20Images) contains per model, size and task type the generative images in which we did human evaluation.
 The folder contains sub-folder per model:
-1. CR = Crayon (Dalle-mini)
+1. PA = Pix-Art-α
 2. DL = DALL-E 2
 3. SD = Stable diffusion
 
 The structure of the folder is
-1. CR 
+1. PA
    - 512 
      - 001.Colouring
      - 002.Counting
