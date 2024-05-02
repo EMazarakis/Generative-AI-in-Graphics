@@ -30,7 +30,7 @@ This folder contains the python code files. In order to create DALL-E 2 images t
 This folder contains the installation instructions of the stable diffusion v.1.5 model and of the relevant web-ui in order to execute the model. [stable disffusion](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Stable%20Diffusion/Installation_Instructions.md)
 
 ## Pix-Art-α
-**TODO**
+This folder contains all the relevant urls in order to use the model [Pix-Art-α](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Pix-Art-%CE%B1/Model_Demo.md) .
 
 # Benchmarking
 We provide a multi-task benchmark for evaluating the text-to-image models. Our benchmark contains a suite of tasks over multiple applications that capture a model’s ability to handle different features of a text prompt.
