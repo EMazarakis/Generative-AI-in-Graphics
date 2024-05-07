@@ -42,7 +42,7 @@ Our benchmark contains:
 5. positional task: The prompt is used to examine the ability of image generation systems to generate images with accurate positional information.
 6. faces task: The prompt is used to examine the ability of image generation systems to generate images with accurate facing information.
 
-Each task type contains 12 prompts and each task type consists of three difficulty levels (easy, medium, and hard). Our evaluation protocol consists of human ratings. 
+Each task type contains 12 prompts. Our evaluation protocol consists of human ratings. 
 For each prompt, the rater is shown images which are from DALLE-2, from Stable Diffusion, and from Pix-Art-α. 
 The human rater will be asked one question:
 1. The image represents the caption: [Text Caption]?
