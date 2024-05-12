@@ -261,12 +261,10 @@ def main():
 
     ############################################################################
     # We are going to compute the Mean,Median and Std of CLIP score for each Category/Task Type Per Model
-    
-    
     # Define the indices of values within each tuple
     model_index = 0 
     size_index = 1
-    category_index = 2 #This must be change to task
+    category_index = 2 
     value_index = 5  
     
     # Initialize dictionaries to store means and medians for each combination/task
