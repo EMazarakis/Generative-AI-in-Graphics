@@ -1,2 +1,0 @@
-This folder contains all the CLIP scores and metrics (mean, median, std) for each CLIP model: ViT-L/14@336px,  RN50x64.
-The results are in a csv and xlsx format file.
