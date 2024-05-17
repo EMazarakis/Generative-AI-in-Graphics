@@ -1,1 +1,21 @@
+This folder contains the pbix file and the relevant source file (003.clip_metrics_file_ViT_L_14@336px.xlsx).
 
+On the power bi file we do some transformations.
+
+We go to the model tab, to the Mean% and Median% columns and do the decimal places 3.
+We also summarize the Size column by: None.
+
+Then we make some new columns:
+Model Name = SWITCH('clip_metrics_file_ViT_L_14@336p'[Model],"SD", "Stable Diffusion", "DL", "DALL-E 2", "PA", "Pix-Art-α")
+
+MaxMeanPercent = 
+VAR MaxTaskMeanPercent =
+    MAXX(
+        ALL('clip_metrics_file_ViT_L_14@336p'[Model Name]),
+        CALCULATE(
+            MAX('clip_metrics_file_ViT_L_14@336p'[Mean%]),
+            ALLEXCEPT('clip_metrics_file_ViT_L_14@336p', 'clip_metrics_file_ViT_L_14@336p'[Task], 'clip_metrics_file_ViT_L_14@336p'[Size])
+        )
+    )
+RETURN
+    MaxTaskMeanPercent
