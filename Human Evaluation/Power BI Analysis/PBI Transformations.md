@@ -2,17 +2,17 @@ Instructions for the relevant transformations
 
 1.	Import .xlsx file with the human evaluation scores.
 2.	We go Transform Data button --> Transform Data choice.
-  a.	And we are into the power query editor.
-3.	We choose the columns: Χρονική Σήμανση, Όνομα, Επώνυμο, Email.
-4.	We go to Transform tab  Unpivot Columns  Unpivot Other Columns.
-5.	2 new columns will be added:
+     a. And we are into the power query editor.
+4.	We choose the columns: Χρονική Σήμανση, Όνομα, Επώνυμο, Email.
+5.	We go to Transform tab  Unpivot Columns  Unpivot Other Columns.
+6.	2 new columns will be added:
 a.	Attribute: this column contains the Questions
 i.	We rename Attribute to Questions.
 b.	Value: this column contains the scores for each question. (1 to 5)
 i.	We rename Value to Evaluation Value.
-6.	We go to Add Column tab Index Column  From 1.
+7.	We go to Add Column tab Index Column  From 1.
 a.	A new column with name Index added. 
-7.	From the number in front of each question, we will create a column for the model’s name. (1-72:SD, 73-144:DL2,145-216:PA)
+8.	From the number in front of each question, we will create a column for the model’s name. (1-72:SD, 73-144:DL2,145-216:PA)
 a.	We duplicate the column Questions. Right click and chose Duplicate Column.
 b.	We go to the duplicated column and do split by the dot (.)
 i.	Choose the duplicated column.
