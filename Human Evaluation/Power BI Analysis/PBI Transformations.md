@@ -1,8 +1,8 @@
-Instructions for the relevant transformations
+# Instructions for the relevant transformations
 
 1.	Import .xlsx file with the human evaluation scores.
 2.	We go Transform Data button --> Transform Data choice.
-     a. And we are into the power query editor.
+     - And we are into the power query editor.
 4.	We choose the columns: Χρονική Σήμανση, Όνομα, Επώνυμο, Email.
 5.	We go to Transform tab  Unpivot Columns  Unpivot Other Columns.
 6.	2 new columns will be added:
