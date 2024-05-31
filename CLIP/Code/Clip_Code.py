@@ -24,7 +24,7 @@ print("All the available models of CLIP family are: ", available_models)
 # All the relevant variables for the image file name.
 ##########################################################################
 # Here is the directory prefix where the model images are hosted.
-prefix_path = "C:/Users/E.Mazarakis/Desktop/000.Produced_Images/"
+prefix_path = "C:/Users/ΧΧΧ/ΥΥΥ/000.Produced_Images/"
 
 # The folder name for each model's images.
 prefix_models = ["001.Stable_Diffusion", "002.DALLE_2", "003.Pix_Art_a"]
@@ -197,8 +197,8 @@ def calculate_clip_score(path_to_image, prompt):
 def main():
     
     # File path to write the scores
-    score_file = "C:/Users/E.Mazarakis/Desktop/clip_scores_file.csv"
-    metrics_file = "C:/Users/E.Mazarakis/Desktop/clip_metrics_file.csv"
+    score_file = "C:/Users/ΧΧΧ/ΥΥΥ/clip_scores_file.csv"
+    metrics_file = "C:/Users/ΧΧΧ/ΥΥΥ/clip_metrics_file.csv"
 
     # We will store all the values on a list as tuple of six elements, in order to calculate then Mean  and Median
     image_text_values_list = []
@@ -225,7 +225,6 @@ def main():
                 for k in range( len(tasks) ):      # For the 6 task type
                     for l in range( NUM_OF_IMAGES ):    # For the 12 images
                 
-                        # Example of a file path: "C:/Users/E.Mazarakis/Desktop/000.Produced_Images/001.Stable_Diffusion/001.512_512/001.Colouring/001.SD_512_coloring_1.png"
                         image_file_path = prefix_path + prefix_models[i] + "/" + prefix_size[j] + "/" + prefix_task[k] + "/" + ("0" if (l+1) > 9 else "00") + str(l+1) + "." + models_abbr[i] + "_" + img_sizes[j] + "_" + tasks[k] + "_" + str(l+1) + ".png"
                 
                         # For a certain task type we get the appropriate prompt
