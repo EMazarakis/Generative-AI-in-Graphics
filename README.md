@@ -62,6 +62,7 @@ We aggregate scores from 17 raters, the evaluated images were 432 (17 raters x 3
 
 :point_right: To see and download the prompts of the benchmarking you can go to: [Benchmarking](Benchmarking/benchmark.csv).
 
+:point_right: You can find the human evaluation results, including both rater responses and analysis [here](https://github.com/EMazarakis/Generative-AI-in-Graphics/tree/main/Human%20Evaluation)
 
 ### Quantitative Assessment
 Each task type contains 12 prompts. Our evaluation protocol consists of the CLIP score.
