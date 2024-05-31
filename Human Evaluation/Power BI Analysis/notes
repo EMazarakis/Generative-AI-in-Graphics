@@ -1,3 +1,5 @@
-This folder contains the pbi file and the relevant sources (xlsx).
+This folder contains all the resources needed for analyzing the data:
 
-
+Power BI Analysis (.pbix): This file provides visualizations and insights derived from the data.
+Data Sources (XLSX): These Excel files contain the raw data used in the Power BI analysis.
+Data Transformation Documentation (.md): This file explains the specific steps taken to prepare the data for analysis in Power BI.
