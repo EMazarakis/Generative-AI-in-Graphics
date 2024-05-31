@@ -19,21 +19,25 @@ In the subsequent chapter, we elucidate the three models under scrutiny, namely,
 In the conclusive third chapter of this thesis, the outcomes of the human evaluation stemming from the implementation of Generative AI models for graphics are presented. Additionally, notable discoveries pertaining to these three models within the graphics domain are discussed.
 
 
-# Evaluated Models
-We perform a human evaluation comparing the most common open-source (Stable Diffusion, Pix-Art-α), and commercial (DALL-E 2) models. 
+# Evaluation
+We perform an assessment on three text-to-image Gen AI models, the most common open-source (Stable Diffusion, Pix-Art-α), and commercial (DALL-E 2) models. 
+The assessment that we do is: qualitative and quantitative.
 These models have 3 common hyperparameters: prompt, height, width. 
 For the evaluation of these three models, we provide a benchmark of six task-types with twelve prompts of each task type.
 
-## DALL-E 2
+## Generative AI models for evaluation
+We assess three models, the DALL-E 2, Stable Diffusion and Pix-Art-α
+
+### DALL-E 2
 This folder contains the python code files. In order to create DALL-E 2 images through openai API we used the file [python-dalle-api-call](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/DALL-E%202/PythonApplication5.py) 
 
-## Stable Diffusion
+### Stable Diffusion
 This folder contains the installation instructions of the stable diffusion v.1.5 model and of the relevant web-ui in order to execute the model. [stable disffusion](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Stable%20Diffusion/Installation_Instructions.md)
 
-## Pix-Art-α
+### Pix-Art-α
 This folder contains all the relevant urls in order to use the model [Pix-Art-α](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Pix-Art-%CE%B1/Model_Demo.md) .
 
-# Benchmarking
+## Benchmarking
 We provide a multi-task benchmark for evaluating the text-to-image models. Our benchmark contains a suite of tasks over multiple applications that capture a model’s ability to handle different features of a text prompt.
 Our benchmark contains:
 1. colouring task: The prompt is used to examine the ability of the image generation system to generate images that have colouring concepts.
@@ -43,16 +47,18 @@ Our benchmark contains:
 5. positional task: The prompt is used to examine the ability of image generation systems to generate images with accurate positional information.
 6. faces task: The prompt is used to examine the ability of image generation systems to generate images with accurate facing information.
 
+
+## Assessment
+### Qualitative Assessment
 Each task type contains 12 prompts. Our evaluation protocol consists of human ratings. 
 For each prompt, the rater is shown images which are from DALLE-2, from Stable Diffusion, and from Pix-Art-α. 
 The human rater will be asked one question:
-1. The image represents the caption: [Text Caption]?
+1. How well does the image represent the text caption: [Text Caption] ?
    - Question subjectively evaluates image-text alignment.
 
 For each question, the rater is asked to select from rating between 1(worst) and 5(best).
 
-The scores from different raters will be aggregated and then score it in a percentage value which
-will be presented in the form of a graph.
+We aggregate scores from 17 raters, the evaluated images were 432 (17 raters x 3 models x 2 sizes x 6 tasks x 12 prompts = 7344 ratings)
 
 :point_right: To see and download the prompts of the benchmarking you can go to: [Benchmarking](Benchmarking/benchmark.csv).
 
