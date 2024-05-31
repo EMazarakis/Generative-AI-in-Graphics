@@ -1,5 +1,5 @@
 # Generative-AI-in-Graphics
-A summary of the master thesis with title: **Generative AI in-Graphics.**
+A summary of the master thesis with title: **Evaluation of three text-to-image Gen AI models**
 
 The structure of the thesis is mentioned in the following image:
 ![Thesis organization](/images/000.Thesis_Organization.png)
