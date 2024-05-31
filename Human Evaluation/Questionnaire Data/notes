@@ -1,4 +1,6 @@
 This folder contains the results of the Google Form questionnaire.
 
-Image Size-Specific Data: Each questionnaire focused on a specific image size. The results for each size are stored in a separate XLSX file.
-Data Transformation: The data within the XLSX files was originally in a pivoted format. We transformed the data within Power BI to a standard tabular format for further analysis.
+Image Size-Specific Data: Each questionnaire focused on a specific image size. 
+                            The results for each size are stored in a separate XLSX file.
+Data Transformation: The data within the XLSX files was originally in a pivoted format. 
+                      We transformed the data within Power BI to a standard tabular format for further analysis.
