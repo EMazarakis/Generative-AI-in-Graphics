@@ -70,8 +70,11 @@ Each task type contains 12 prompts. Our evaluation protocol consists of the CLIP
 :point_right:  All the relevant info for the CLIP, such as the python code, the results of the python code (CLIP Scores) and the relavant analysis based on the results can be found on [CLIP](https://github.com/EMazarakis/Generative-AI-in-Graphics/tree/main/CLIP) folder.
 
 
+## Results
+todo
+
 # Generative Images
-The folder [Produced Images](https://github.com/EMazarakis/Generative-AI-in-Graphics/tree/main/Generative%20Images) contains per model, size and task type the generative images in which we did human evaluation.
+The folder [Generative Images](https://github.com/EMazarakis/Generative-AI-in-Graphics/tree/main/Generative%20Images) contains per model, size and task type the generative images in which we did human evaluation.
 The folder contains sub-folder per model:
 1. PA = Pix-Art-α
 2. DL = DALL-E 2
