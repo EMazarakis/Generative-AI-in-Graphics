@@ -66,7 +66,8 @@ We aggregate scores from 17 raters, the evaluated images were 432 (17 raters x 3
 
 ### Quantitative Assessment
 Each task type contains 12 prompts. Our evaluation protocol consists of the CLIP score. The score is the cosine similarity between the prompt and the generated image.
-:point_right: All the relevant info for the CLIP, such as the python code, the results of the python code (CLIP Scores) and the relavant analysis based on the results can be found on [CLIP](https://github.com/EMazarakis/Generative-AI-in-Graphics/tree/main/CLIP) folder.
+
+:point_right:  All the relevant info for the CLIP, such as the python code, the results of the python code (CLIP Scores) and the relavant analysis based on the results can be found on [CLIP](https://github.com/EMazarakis/Generative-AI-in-Graphics/tree/main/CLIP) folder.
 
 
 # Generative Images
