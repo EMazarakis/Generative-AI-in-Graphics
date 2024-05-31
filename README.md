@@ -2,9 +2,7 @@
 A summary of the master thesis with title: **Evaluation of three text-to-image Gen AI models**
 
 The structure of the thesis is mentioned in the following image:
-![Thesis organization](/images/000.Thesis_Organization.png)
-
-
+![Thesis organization](/images/000.Thesis_Organization 2.png)
 
 The aim of this thesis is to focus on Generative AI algorithms, in order to list and classify the available Generative AI algorithms and applications that can be exploited in the scientific fields of Graphics.
 
