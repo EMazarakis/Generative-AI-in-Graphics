@@ -115,4 +115,5 @@ All the relevant latex files for the master thesis is under the directory [latex
 
 # Master Thesis
 :point_right: To see and download the master thesis you can go to: [Master Thesis](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Master%20Thesis/Master_Thesis_en.pdf).
+
 :point_right: A synopsis of the master thesis can be found on [PPT presentation](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/PPT%20Presentation/Master%20Thesis%20presentation.pdf)
