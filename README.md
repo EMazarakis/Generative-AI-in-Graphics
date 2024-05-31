@@ -62,6 +62,12 @@ We aggregate scores from 17 raters, the evaluated images were 432 (17 raters x 3
 
 :point_right: To see and download the prompts of the benchmarking you can go to: [Benchmarking](Benchmarking/benchmark.csv).
 
+
+### Quantitative Assessment
+Each task type contains 12 prompts. Our evaluation protocol consists of the CLIP score.
+The score is the cosine similarity between the prompt and the generated image.
+The code that we used in order to produce the scores can be found:
+
 # Generative Images
 The folder [Produced Images](https://github.com/EMazarakis/Generative-AI-in-Graphics/tree/main/Generative%20Images) contains per model, size and task type the generative images in which we did human evaluation.
 The folder contains sub-folder per model:
