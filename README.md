@@ -76,6 +76,11 @@ The result of the qualitative assessment (human evaluation) for the 1024-sized i
 
 
 ### Quantitative Assessment - CLIP Score
+The result of the quantitative assessment (CLIP score) for the 512-sized images.
+![CLIP_Score512](/images/026.512_ViT_mean_median.png)
+
+The result of the quantitative assessment (CLIP score) for the 1024-sized images.
+![CLIP_Score1024](/images/027.1024_ViT_mean_median.png)
 
 
 ## Conclusion
