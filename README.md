@@ -5,17 +5,11 @@ The structure of the thesis is mentioned in the following image:
 ![Thesis organization](/images/000.Thesis_Organization.jpg)
 
 
-The aim of this thesis is to focus on Generative AI algorithms, in order to list and classify the available Generative AI algorithms and applications that can be exploited in the scientific fields of Graphics.
-
-We first provide all the necessary definitions commonly used around the AI, Generative AI, Generative AI model. 
-This is the necessary background we need to be able to understand what is mentioned in this thesis. 
-Then we talk about some fundamental deep learning architectures that used on generative AI models. Thereafter, we describe the implementation phases of a Generative AI models. 
-Then we offer a classification of some of the advanced GAI algorithms.
-The categorization of the models have been done based on the generated content, output.
-
-In the subsequent chapter, we elucidate the three models under scrutiny, namely, the prevalent open-source frameworks (Stable Diffusion and Pix-Art-α), alongside the commercial counterpart, DALL-E 2. These models share three common hyperparameters: prompt, height, and width, thus guiding our experimental setup. Subsequently, we conducted model executions based on these parameters. To conduct a human evaluation of these models, we present a benchmark comprising six task-types, each consisting of twelve prompts.
-
-In the conclusive third chapter of this thesis, the outcomes of the human evaluation stemming from the implementation of Generative AI models for graphics are presented. Additionally, notable discoveries pertaining to these three models within the graphics domain are discussed.
+# Abstract
+This master's thesis delves into the cutting-edge domain of Generative Artificial Intelligence (AI) with a primary focus on graphics applications. The study explores various deep learning techniques, including Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs), Diffusion Models, and Transformers. These methods have revolutionized the field by enabling the generation of realistic and high-quality content, ranging from images to entire 3D-scenes.
+The investigation begins with an exploration of Variational Autoencoders, emphasizing their role in capturing latent representations of data. Subsequently, the research transitions to Generative Adversarial Networks, discussing their adversarial training process for generating authentic content. Additionally, the study reviews Diffusion Models, which excel in probabilistic generative modeling, and Transformers, renowned for their success in sequential data generation tasks.
+A significant portion of the thesis is dedicated to the execution and evaluation of three models (DALL-E 2, Stable Diffusion, Pix-Art-α) in the graphics domain based on some parameters. Executing generative models through Python code or running them locally through an interface empowers users to harness advanced AI techniques. Furthermore, the evaluation of these models involves both qualitative and quantitative processes. This enables the creation of diverse, high-quality content, revolutionizing applications in various domains seamlessly.
+The findings highlight the transformative impact of these generative models on the field of graphics, showcasing their ability to create immersive and novel visual content through the amalgamation of sophisticated deep learning techniques.
 
 
 # Evaluation
