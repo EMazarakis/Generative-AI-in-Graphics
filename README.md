@@ -70,7 +70,7 @@ To asess the similarity between an image and the prompt, we calulate the CLIP sc
 todo
 
 # Generative Images
-The folder [Generative Images](https://github.com/EMazarakis/Generative-AI-in-Graphics/tree/main/Generative%20Images) contains per model, size and task type the generative images in which we did human evaluation.
+The folder [Generative Images](https://github.com/EMazarakis/Generative-AI-in-Graphics/tree/main/Generative%20Images) contains per model, size and task type the generated images in which we did quantitative and qualitative evaluation.
 The folder contains sub-folder per model:
 1. PA = Pix-Art-α
 2. DL = DALL-E 2
