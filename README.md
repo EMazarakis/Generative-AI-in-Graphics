@@ -67,12 +67,15 @@ To asess the similarity between an image and the prompt, we calulate the CLIP sc
 
 
 ## Results
+### Qualitative Assessment - Human Evaluation
 The result of the qualitative assessment (human evaluation) for the 512-sized images.
 ![HumanEvaluation512](/images/030.512_Human_Norm_Scores.PNG)
 
 The result of the qualitative assessment (human evaluation) for the 1024-sized images.
 ![HumanEvaluation1024](/images/031.1024_Human_Norm_Scores.PNG)
 
+
+### Quantitative Assessment - CLIP Score
 
 
 ## Conclusion
