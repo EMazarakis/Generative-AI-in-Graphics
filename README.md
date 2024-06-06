@@ -12,14 +12,14 @@ A significant portion of the thesis is dedicated to the execution and evaluation
 The findings highlight the transformative impact of these generative models on the field of graphics, showcasing their ability to create immersive and novel visual content through the amalgamation of sophisticated deep learning techniques.
 
 
-# Evaluation
+# Assessing text-to-image models
 We perform an assessment on three text-to-image Gen AI models, the most common open-source (Stable Diffusion, Pix-Art-α), and commercial (DALL-E 2) models. 
 The assessment that we do is: qualitative and quantitative.
 These models have 3 common hyperparameters: prompt, height, width. 
 For the evaluation of these three models, we provide a benchmark of six task-types with twelve prompts of each task type.
 
-## Generative AI models for evaluation
-We assess three models, the DALL-E 2, Stable Diffusion and Pix-Art-α
+## Assessing Models
+We assess three models, DALL-E 2, Stable Diffusion and Pix-Art-α
 
 ### DALL-E 2
 This folder contains the python code files. In order to create DALL-E 2 images through openai API we used the file [python-dalle-api-call](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/DALL-E%202/PythonApplication5.py) 
