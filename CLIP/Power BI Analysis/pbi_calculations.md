@@ -22,24 +22,26 @@ Then we make some new columns:
         RETURN
             MaxTaskMeanPercent  //For each category, across model names and size we find the Max value of Mean %
 
-4. ColorMaxMeanPercent = IF('clip_metrics_file_ViT_L_14@336p'[Mean%] < 'clip_metrics_file_ViT_L_14@336p'[MaxMeanPercent], "Black", "Red")
-//If the Mean% is less than the MaxMeanPercent return the color Black, otherwise Red. That means that the max value it will have red color.
+3. ### ColorMaxMeanPercent =
+          IF('clip_metrics_file_ViT_L_14@336p'[Mean%] < 'clip_metrics_file_ViT_L_14@336p'[MaxMeanPercent], "Black", "Red")
+          //If the Mean% is less than the MaxMeanPercent return the color Black, otherwise Red. That means that the max value it will have red color.
 
-5. MaxMedianPercent = 
-VAR MaxTaskMedianPercent =
-    MAXX(
-        ALL('clip_metrics_file_ViT_L_14@336p'[Model Name]),
-        CALCULATE(
-            MAX('clip_metrics_file_ViT_L_14@336p'[Median%]),
-            ALLEXCEPT('clip_metrics_file_ViT_L_14@336p', 'clip_metrics_file_ViT_L_14@336p'[Task], 'clip_metrics_file_ViT_L_14@336p'[Size])
-        )
-    )
-RETURN
-    MaxTaskMedianPercent //For each category, across model names and size we find the Max value of Median %
+4. ### MaxMedianPercent = 
+       VAR MaxTaskMedianPercent =
+           MAXX(
+               ALL('clip_metrics_file_ViT_L_14@336p'[Model Name]),
+               CALCULATE(
+                   MAX('clip_metrics_file_ViT_L_14@336p'[Median%]),
+                   ALLEXCEPT('clip_metrics_file_ViT_L_14@336p', 'clip_metrics_file_ViT_L_14@336p'[Task], 'clip_metrics_file_ViT_L_14@336p'[Size])
+               )
+           )
+       RETURN
+           MaxTaskMedianPercent //For each category, across model names and size we find the Max value of Median %
 
 
-6. ColorMaxMedianPercent = IF('clip_metrics_file_ViT_L_14@336p'[Median%] < 'clip_metrics_file_ViT_L_14@336p'[MaxMedianPercent], "Black", "Red")
-//If the Median% is less than the MaxMedianPercent return the color Black, otherwise Red. That means that the max value it will have red color.
+5. ### ColorMaxMedianPercent =
+          IF('clip_metrics_file_ViT_L_14@336p'[Median%] < 'clip_metrics_file_ViT_L_14@336p'[MaxMedianPercent], "Black", "Red")
+          //If the Median% is less than the MaxMedianPercent return the color Black, otherwise Red. That means that the max value it will have red color.
 
 
 To do the conditional formatiing in opder to highlight the max value of each clustred column, we go to column chart: 
