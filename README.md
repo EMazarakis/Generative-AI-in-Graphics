@@ -30,7 +30,7 @@ This folder contains the installation instructions of the stable diffusion v.1.5
 ### Pix-Art-α
 This folder contains all the relevant urls in order to use the model [Pix-Art-α](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Pix-Art-%CE%B1/Model_Demo.md) .
 
-## Benchmarking
+## Benchmarking Tasks
 We provide a multi-task benchmark for evaluating the text-to-image models. Our benchmark contains a suite of tasks over multiple applications that capture a model’s ability to handle different features of a text prompt.
 Our benchmark contains:
 1. colouring task: The prompt is used to examine the ability of the image generation system to generate images that have colouring concepts.
@@ -42,7 +42,9 @@ Our benchmark contains:
 
 A whole list of benchmark prompts can be found on the [Benchmarking](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Benchmarking/benchmark.csv) folder. 
 
-## Assessment
+## Assessment Techniques
+There are two methods for evaluating generative AI models. First approach is the qualitative method that entails examing the generated data through human evaluation. Alternatively, the other approach involves quantitative method, where numerical scores are calculated based on certain criteria.
+
 ### Qualitative Assessment
 Each task type contains 12 prompts. Our evaluation protocol consists of human ratings. 
 For each prompt, the rater is shown images which are from DALLE-2, from Stable Diffusion, and from Pix-Art-α. 
