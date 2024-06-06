@@ -67,7 +67,10 @@ To asess the similarity between an image and the prompt, we calulate the CLIP sc
 
 
 ## Results
-todo
+![HumanEvaluation512](/images/030.512_Human_Norm_Scores.PNG)
+
+![HumanEvaluation1024](/images/031.1024_Human_Norm_Scores.PNG)
+
 
 
 ## Conclusion
