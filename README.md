@@ -40,6 +40,7 @@ Our benchmark contains:
 5. positional task: The prompt is used to examine the ability of image generation systems to generate images with accurate positional information.
 6. faces task: The prompt is used to examine the ability of image generation systems to generate images with accurate facing information.
 
+A whole list of benchmark prompts can be found on the [Benchmarking](https://github.com/EMazarakis/Generative-AI-in-Graphics/blob/main/Benchmarking/benchmark.csv) folder. 
 
 ## Assessment
 ### Qualitative Assessment
