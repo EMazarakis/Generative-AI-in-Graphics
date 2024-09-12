@@ -1,9 +1,6 @@
 # Generative-AI-in-Graphics
 A summary of the master thesis with title: **Evaluation of three text-to-image Gen AI models**
 
-The structure of the thesis is mentioned in the following image:
-![Thesis organization](/images/000.Thesis_Organization.jpg)
-
 
 # Abstract
 This master's thesis delves into the cutting-edge domain of Generative Artificial Intelligence (AI) with a primary focus on graphics applications. The study explores various deep learning techniques, including Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs), Diffusion Models, and Transformers. These methods have revolutionized the field by enabling the generation of realistic and high-quality content, ranging from images to entire 3D-scenes.
